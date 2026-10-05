@@ -9,6 +9,16 @@
   "file": "diegomarino__tui-design.jpg",
   "still": "diegomarino__tui-design.jpg"
  },
+ "kimsh-1/deck-factory": {
+  "repo": "kimsh-1/deck-factory",
+  "url": "https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif",
+  "alt": "deck-factory in motion",
+  "score": 0.3,
+  "type": "image/gif",
+  "bytes": 6800910,
+  "file": "kimsh-1__deck-factory.gif",
+  "still": "kimsh-1__deck-factory.jpg"
+ },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
   "url": "https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif",
