@@ -1,0 +1,22 @@
+{
+ "diegomarino/tui-design": {
+  "repo": "diegomarino/tui-design",
+  "url": "https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png",
+  "alt": "The gallery page the skill builds: selectors for design, variant, state, size, t",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 97716,
+  "file": "diegomarino__tui-design.jpg",
+  "still": "diegomarino__tui-design.jpg"
+ },
+ "nolangz/pixel2motion": {
+  "repo": "nolangz/pixel2motion",
+  "url": "https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif",
+  "alt": "Claude Horizon logo motion preview",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 152210,
+  "file": "nolangz__pixel2motion.gif",
+  "still": "nolangz__pixel2motion.jpg"
+ }
+}
