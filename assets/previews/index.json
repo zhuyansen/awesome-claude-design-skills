@@ -29,6 +29,16 @@
   "file": "nolangz__pixel2motion.gif",
   "still": "nolangz__pixel2motion.jpg"
  },
+ "oil-oil/oil-ui": {
+  "repo": "oil-oil/oil-ui",
+  "url": "https://raw.githubusercontent.com/oil-oil/oil-ui/HEAD/assets/readme/proof-mona-lisa.webp",
+  "alt": "风格对比页：同一个《蒙娜丽莎》特展页面的三种设计方向，分别是三十厘米、号外 1911 和晕涂",
+  "score": -0.1,
+  "type": "image/webp",
+  "bytes": 109066,
+  "file": "oil-oil__oil-ui.jpg",
+  "still": "oil-oil__oil-ui.jpg"
+ },
  "sva-admin/sv-academy-prom-design": {
   "repo": "sva-admin/sv-academy-prom-design",
   "url": "https://raw.githubusercontent.com/sva-admin/sv-academy-prom-design/HEAD/demo/without-skill.png",
