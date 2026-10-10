@@ -6,6 +6,24 @@ Open-source **design skills and tools for Claude Code, Codex and other coding ag
 
 Live page with filters: **[https://agentskillshub.top/best/ai-design/](https://agentskillshub.top/best/ai-design/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
+## Which one to install
+
+We ran 10 of these end to end (10 gave a result). This is what we would pick; the [full test](#tested) is below.
+
+- 🥇 **For a look that is not the default: [taste-skill](https://github.com/Leonxlnx/taste-skill)**  
+  Both builds passed all seven checks and shared almost nothing with the no-skill page: its own typeface, a cooler palette, and a second build that dared an orange accent.
+- 🥈 **For a different result each time: [hallmark](https://github.com/Nutlope/hallmark)**  
+  All seven checks twice, little in common with the default, and its two builds differ from each other: one flat and technical, one editorial with a serif headline.
+- 🥉 **For one fixed identity: [nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill)**  
+  The same dot-matrix look both times, unlike anything else here. That is the point of it, and the limit: check the phone layout, one build scrolled sideways.
+
+**Changed nothing you can see in a still page:** skills (it is about motion; fonts, colours and layout matched the no-skill page); Skills (both builds matched the no-skill page on all four).
+
+Whichever you pick: none of the 22 pages had the old AI look (purple gradient, gradient text, emoji icons, centred hero), with or without a skill. The sameness now is quieter: teal on cream, text left, a status card right.
+
+*Ranked by how little a build shares with the page Claude Code made with no skill (headline font, body font, accent family, background family), then by the seven page checks, then GitHub stars. This counts sameness, not taste: look at the pictures. Two builds per skill, one brief.*
+
+
 ## What these skills make
 
 <table>
@@ -23,6 +41,7 @@ Live page with filters: **[https://agentskillshub.top/best/ai-design/](https://a
 
 ## Contents
 
+- [🧪 Tested end to end](#tested)
 - [🎨 Frontend design](#type-ui) (92)
 - [📐 Design systems](#type-system) (43)
 - [🔌 Figma & design tools](#type-tool_mcp) (18)
@@ -38,6 +57,32 @@ Live page with filters: **[https://agentskillshub.top/best/ai-design/](https://a
 4. At 50 stars or more it is listed on topic alone. Under 50 it must also clear a README quality bar (shows it working, one-command start, a concrete outcome, complete docs), and have 5 stars.
 
 The questions are answered by a decision model reading each README, not by hand. A repo near a cut-off can land on either side; open an issue if one is misfiled.
+
+<a id="tested"></a>
+## 🧪 Tested end to end
+
+On 2026-10-10 we ran 10 of these skills. Each built the same landing page twice in a throwaway sandbox, driven by Claude Code (Claude Opus 5.5): a made-up app, fixed copy, the design left open. Claude Code with no skill built it twice as well. Nothing here is a taste score. A browser measured each page: seven checks any landing page should pass, and four things that make pages look alike (headline font, body font, accent colour family, background family), compared with the no-skill pages and between a skill's own two builds.
+
+**What we found:** None of the 22 pages had the old AI look (a purple accent, gradient text, emoji icons, a centred hero), with or without a skill. The default now is teal on cream with a serif headline, and 2 of 10 skills reproduced it on all four counts; 4 shared one or none. Every skill passed at least 6.5 of the 7 checks.
+
+[![The first screen of each skill's first build; the page built with no skill is top left.](https://agentskillshub.top/best-runs/design/compare.jpg)](https://agentskillshub.top/best-runs/design/compare.jpg)
+
+*The first screen of each skill's first build; the page built with no skill is top left.*
+
+| # | Skill | ★ | Shares with the no-skill page (of 4) | Its two builds share (of 4) | Checks passed (of 7) | Failed | Headline font |  |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | 93,722 | 0.5/4 | 3/4 | 7.0/7 | - | Geist | [evidence](https://agentskillshub.top/best-runs/design/Leonxlnx__taste-skill.html) |
+| 2 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 134,020 | 0.5/4 | 3/4 | 6.5/7 | no sideways scroll on a phone | Varela Round | [evidence](https://agentskillshub.top/best-runs/design/nextlevelbuilder__ui-ux-pro-max-skill.html) |
+| 3 | [hallmark](https://github.com/Nutlope/hallmark) | 29,767 | 1.0/4 | 2/4 | 7.0/7 | - | Hanken Grotesk / Newsreader | [evidence](https://agentskillshub.top/best-runs/design/Nutlope__hallmark.html) |
+| 4 | [nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) | 2,808 | 1.0/4 | 4/4 | 6.5/7 | no sideways scroll on a phone | Doto | [evidence](https://agentskillshub.top/best-runs/design/dominikmartn__nothing-design-skill.html) |
+| 5 | [huashu-design](https://github.com/alchaincyf/huashu-design) | 24,688 | 1.5/4 | 1/4 | 7.0/7 | - | Archivo / Hind | [evidence](https://agentskillshub.top/best-runs/design/alchaincyf__huashu-design.html) |
+| 6 | [claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) | 1,978 | 1.5/4 | 3/4 | 7.0/7 | - | Bricolage Grotesque | [evidence](https://agentskillshub.top/best-runs/design/Trystan-SA__claude-design-system-prompt.html) |
+| 7 | [baoyu-design](https://github.com/JimLiu/baoyu-design) | 4,260 | 2.0/4 | 2/4 | 7.0/7 | - | Instrument Serif / Young Serif | [evidence](https://agentskillshub.top/best-runs/design/JimLiu__baoyu-design.html) |
+| 8 | [styleseed](https://github.com/bitjaru/styleseed) | 973 | 2.0/4 | 1/4 | 7.0/7 | - | Figtree / Inter | [evidence](https://agentskillshub.top/best-runs/design/bitjaru__styleseed.html) |
+| 9 | [skills](https://github.com/emilkowalski/skills) | 44,260 | 4.0/4 | 4/4 | 7.0/7 | - | Fraunces | [evidence](https://agentskillshub.top/best-runs/design/emilkowalski__skills.html) |
+| 10 | [Skills](https://github.com/MengTo/Skills) | 6,666 | 4.0/4 | 4/4 | 7.0/7 | - | Fraunces | [evidence](https://agentskillshub.top/best-runs/design/MengTo__Skills.html) |
+
+[All results, prompts and scripts](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/design-runs/RESULTS.md) · [https://agentskillshub.top/best/ai-design/#test-results](https://agentskillshub.top/best/ai-design/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-claude-design-skills#test-results)
 
 <a id="type-ui"></a>
 ## 🎨 Frontend design

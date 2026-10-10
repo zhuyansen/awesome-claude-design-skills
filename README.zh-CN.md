@@ -6,6 +6,24 @@
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/ai-design/](https://agentskillshub.top/best/ai-design/?utm_source=github&utm_medium=awesome-list)** · 每 8 小时刷新
 
+## 到底装哪个
+
+我们实跑了其中 10 个(10 个出了结果),结论如下。[完整实测结果](#tested)在下面。
+
+- 🥇 **想要不撞脸的设计: [taste-skill](https://github.com/Leonxlnx/taste-skill)**  
+  两次产出都通过全部七项检查，和不装 skill 的页面几乎没有相同之处：自己的字体、偏冷的配色，第二次还用了橙色强调色。
+- 🥈 **想要每次都不一样: [hallmark](https://github.com/Nutlope/hallmark)**  
+  两次都通过全部七项检查，和默认风格相同处很少，而且两次产出彼此不同：一次扁平偏技术，一次是衬线标题的杂志风。
+- 🥉 **想要一套固定风格: [nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill)**  
+  两次都是同一套点阵风格，和这里其他的都不像。这是它的目的，也是它的局限：记得检查手机版式，有一次会横向滚动。
+
+**在静态页面上看不出区别:** skills (它讲的是动效；字体、配色和版式与不装 skill 的页面一致); Skills (两次产出四项全部与不装 skill 的页面相同).
+
+不管选哪个：22 个页面里没有一个是老式的 AI 味（紫色渐变、渐变文字、emoji 图标、居中大标题），装不装 skill 都一样。现在的「撞脸」更安静：米白底配青绿、左边文字、右边一张状态卡片。
+
+*排名规则：先看产出和不装 skill 时 Claude Code 做的页面有多少相同（标题字体、正文字体、强调色、背景），越少越靠前；再看七项页面检查，最后看 GitHub 星数。这量的是「像不像」，不是审美：请看图。每个 skill 做两遍，同一份需求。*
+
+
 ## 这些 skill 能做出什么
 
 <table>
@@ -23,6 +41,7 @@
 
 ## 目录
 
+- [🧪 端到端实测](#tested)
 - [🎨 UI 与前端美化](#type-ui) (92)
 - [📐 设计系统](#type-system) (43)
 - [🔌 Figma 与设计工具](#type-tool_mcp) (18)
@@ -38,6 +57,32 @@
 4. 50 星及以上只看是否切题;50 星以下还要过 README 质量线(展示效果、一条命令上手、说清产出、文档完整),并且至少 5 星。
 
 这些问题由决策模型逐个读 README 回答,不是人工挑选。卡在线上的仓库可能判到任一边,归错了请提 issue。
+
+<a id="tested"></a>
+## 🧪 端到端实测
+
+2026-10-10 我们实跑了其中 10 个。每个在用完即删的沙箱里由 Claude Code（Claude Opus 5.5）调用，把同一个落地页做两遍：一个虚构的应用，文案固定，设计自由。不装 skill 的 Claude Code 也做了两遍。这里没有审美分。每个页面由浏览器测量：任何落地页都该通过的七项检查，以及让页面「撞脸」的四样东西（标题字体、正文字体、强调色、背景），分别和不装 skill 的页面比、和它自己的另一次产出比。
+
+**发现:** 22 个页面里没有一个是老式的 AI 味（紫色强调色、渐变文字、emoji 图标、居中大标题），装不装 skill 都一样。现在的默认风格是米白底配青绿、衬线标题；10 个 skill 里有 2 个四项全部照搬，4 个只有一项或零项相同。每个 skill 在 7 项检查里至少通过 6.5 项。
+
+[![The first screen of each skill's first build; the page built with no skill is top left.](https://agentskillshub.top/best-runs/design/compare.jpg)](https://agentskillshub.top/best-runs/design/compare.jpg)
+
+*每个 skill 第一次产出的首屏；左上角是不装 skill 做的页面。*
+
+| # | Skill | ★ | 与不装 skill 的页面相同（共 4 项） | 自己两次产出相同（共 4 项） | 页面检查通过（共 7 项） | 未通过 | 标题字体 |  |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | 93,722 | 0.5/4 | 3/4 | 7.0/7 | - | Geist | [证据](https://agentskillshub.top/best-runs/design/Leonxlnx__taste-skill.html) |
+| 2 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 134,020 | 0.5/4 | 3/4 | 6.5/7 | 手机上不横向滚动 | Varela Round | [证据](https://agentskillshub.top/best-runs/design/nextlevelbuilder__ui-ux-pro-max-skill.html) |
+| 3 | [hallmark](https://github.com/Nutlope/hallmark) | 29,767 | 1.0/4 | 2/4 | 7.0/7 | - | Hanken Grotesk / Newsreader | [证据](https://agentskillshub.top/best-runs/design/Nutlope__hallmark.html) |
+| 4 | [nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) | 2,808 | 1.0/4 | 4/4 | 6.5/7 | 手机上不横向滚动 | Doto | [证据](https://agentskillshub.top/best-runs/design/dominikmartn__nothing-design-skill.html) |
+| 5 | [huashu-design](https://github.com/alchaincyf/huashu-design) | 24,688 | 1.5/4 | 1/4 | 7.0/7 | - | Archivo / Hind | [证据](https://agentskillshub.top/best-runs/design/alchaincyf__huashu-design.html) |
+| 6 | [claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt) | 1,978 | 1.5/4 | 3/4 | 7.0/7 | - | Bricolage Grotesque | [证据](https://agentskillshub.top/best-runs/design/Trystan-SA__claude-design-system-prompt.html) |
+| 7 | [baoyu-design](https://github.com/JimLiu/baoyu-design) | 4,260 | 2.0/4 | 2/4 | 7.0/7 | - | Instrument Serif / Young Serif | [证据](https://agentskillshub.top/best-runs/design/JimLiu__baoyu-design.html) |
+| 8 | [styleseed](https://github.com/bitjaru/styleseed) | 973 | 2.0/4 | 1/4 | 7.0/7 | - | Figtree / Inter | [证据](https://agentskillshub.top/best-runs/design/bitjaru__styleseed.html) |
+| 9 | [skills](https://github.com/emilkowalski/skills) | 44,260 | 4.0/4 | 4/4 | 7.0/7 | - | Fraunces | [证据](https://agentskillshub.top/best-runs/design/emilkowalski__skills.html) |
+| 10 | [Skills](https://github.com/MengTo/Skills) | 6,666 | 4.0/4 | 4/4 | 7.0/7 | - | Fraunces | [证据](https://agentskillshub.top/best-runs/design/MengTo__Skills.html) |
+
+[全部结果、提示词和脚本](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/design-runs/RESULTS.md) · [https://agentskillshub.top/best/ai-design/#test-results](https://agentskillshub.top/best/ai-design/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-claude-design-skills#test-results)
 
 <a id="type-ui"></a>
 ## 🎨 UI 与前端美化
