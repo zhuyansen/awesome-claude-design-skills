@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `ABC-xiaoxuan__award-level-web-design.jpg` | [ABC-xiaoxuan/award-level-web-design](https://github.com/ABC-xiaoxuan/award-level-web-design) | MIT | [source](https://raw.githubusercontent.com/ABC-xiaoxuan/award-level-web-design/HEAD/examples/screenshots/09-echo-desktop-demo.png) |
 | `diegomarino__tui-design.jpg` | [diegomarino/tui-design](https://github.com/diegomarino/tui-design) | MIT | [source](https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png) |
 | `kimsh-1__deck-factory.gif` | [kimsh-1/deck-factory](https://github.com/kimsh-1/deck-factory) | MIT | [source](https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif) |
 | `nolangz__pixel2motion.gif` | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | MIT | [source](https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif) |

@@ -1,4 +1,14 @@
 {
+ "ABC-xiaoxuan/award-level-web-design": {
+  "repo": "ABC-xiaoxuan/award-level-web-design",
+  "url": "https://raw.githubusercontent.com/ABC-xiaoxuan/award-level-web-design/HEAD/examples/screenshots/09-echo-desktop-demo.png",
+  "alt": "演示",
+  "score": 1.6,
+  "type": "image/png",
+  "bytes": 111127,
+  "file": "ABC-xiaoxuan__award-level-web-design.jpg",
+  "still": "ABC-xiaoxuan__award-level-web-design.jpg"
+ },
  "diegomarino/tui-design": {
   "repo": "diegomarino/tui-design",
   "url": "https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png",
