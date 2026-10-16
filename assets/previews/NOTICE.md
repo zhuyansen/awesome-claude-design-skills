@@ -12,3 +12,4 @@ authors and stay under the license of the project they come from. To have one re
 | `nolangz__pixel2motion.gif` | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | MIT | [source](https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif) |
 | `oil-oil__oil-ui.jpg` | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | MIT | [source](https://raw.githubusercontent.com/oil-oil/oil-ui/HEAD/assets/readme/proof-mona-lisa.webp) |
 | `sva-admin__sv-academy-prom-design.jpg` | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) | MIT | [source](https://raw.githubusercontent.com/sva-admin/sv-academy-prom-design/HEAD/demo/without-skill.png) |
+| `yckonnnnn__zack-design-skills.jpg` | [yckonnnnn/zack-design-skills](https://github.com/yckonnnnn/zack-design-skills) | MIT | [source](https://raw.githubusercontent.com/yckonnnnn/zack-design-skills/HEAD/examples/before-after/preview-before.png) |

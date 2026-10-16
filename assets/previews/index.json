@@ -58,5 +58,15 @@
   "bytes": 315912,
   "file": "sva-admin__sv-academy-prom-design.jpg",
   "still": "sva-admin__sv-academy-prom-design.jpg"
+ },
+ "yckonnnnn/zack-design-skills": {
+  "repo": "yckonnnnn/zack-design-skills",
+  "url": "https://raw.githubusercontent.com/yckonnnnn/zack-design-skills/HEAD/examples/before-after/preview-before.png",
+  "alt": "改前：紫蓝渐变、居中、6 行标题、emoji 图标、三张等宽卡片",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 728847,
+  "file": "yckonnnnn__zack-design-skills.jpg",
+  "still": "yckonnnnn__zack-design-skills.jpg"
  }
 }
