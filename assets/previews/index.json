@@ -9,6 +9,16 @@
   "file": "ABC-xiaoxuan__award-level-web-design.jpg",
   "still": "ABC-xiaoxuan__award-level-web-design.jpg"
  },
+ "arla6ka/design.how": {
+  "repo": "arla6ka/design.how",
+  "url": "https://raw.githubusercontent.com/arla6ka/design.how/HEAD/assets/lime.webp",
+  "alt": "Lime: a banking app's home screen with a balance, one glowing Add button and a s",
+  "score": 0.0,
+  "type": "image/webp",
+  "bytes": 41772,
+  "file": "arla6ka__design.how.jpg",
+  "still": "arla6ka__design.how.jpg"
+ },
  "diegomarino/tui-design": {
   "repo": "diegomarino/tui-design",
   "url": "https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png",
