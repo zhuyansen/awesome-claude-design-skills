@@ -19,6 +19,16 @@
   "file": "arla6ka__design.how.jpg",
   "still": "arla6ka__design.how.jpg"
  },
+ "byadityaraj/designmd": {
+  "repo": "byadityaraj/designmd",
+  "url": "https://raw.githubusercontent.com/byadityaraj/designmd/HEAD/examples/stripe.jpg",
+  "alt": "Stripe",
+  "score": -0.25,
+  "type": "image/jpeg",
+  "bytes": 56840,
+  "file": "byadityaraj__designmd.jpg",
+  "still": "byadityaraj__designmd.jpg"
+ },
  "diegomarino/tui-design": {
   "repo": "diegomarino/tui-design",
   "url": "https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png",
@@ -28,6 +38,16 @@
   "bytes": 97716,
   "file": "diegomarino__tui-design.jpg",
   "still": "diegomarino__tui-design.jpg"
+ },
+ "evidence-codes/loom": {
+  "repo": "evidence-codes/loom",
+  "url": "https://raw.githubusercontent.com/evidence-codes/loom/HEAD/docs/media/portfolio-now-scroll.gif",
+  "alt": "Scrolling through the redesigned portfolio",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 795555,
+  "file": "evidence-codes__loom.gif",
+  "still": "evidence-codes__loom.jpg"
  },
  "kimsh-1/deck-factory": {
   "repo": "kimsh-1/deck-factory",
