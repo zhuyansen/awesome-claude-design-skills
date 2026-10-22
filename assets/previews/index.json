@@ -29,6 +29,16 @@
   "file": "byadityaraj__designmd.jpg",
   "still": "byadityaraj__designmd.jpg"
  },
+ "ckryptickunal/OpenDesigner": {
+  "repo": "ckryptickunal/OpenDesigner",
+  "url": "https://raw.githubusercontent.com/ckryptickunal/OpenDesigner/HEAD/brand/kit/readme/works-in.png",
+  "alt": "Works in Claude Code and the Claude app, ChatGPT and Codex, Cursor, GitHub Copil",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 25617,
+  "file": "ckryptickunal__OpenDesigner.jpg",
+  "still": "ckryptickunal__OpenDesigner.jpg"
+ },
  "diegomarino/tui-design": {
   "repo": "diegomarino/tui-design",
   "url": "https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png",
