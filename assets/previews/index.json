@@ -89,6 +89,16 @@
   "file": "oil-oil__oil-ui.jpg",
   "still": "oil-oil__oil-ui.jpg"
  },
+ "senlindesign/proof": {
+  "repo": "senlindesign/proof",
+  "url": "https://raw.githubusercontent.com/senlindesign/proof/HEAD/docs/images/style-minimal.png",
+  "alt": "Minimal",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 158666,
+  "file": "senlindesign__proof.jpg",
+  "still": "senlindesign__proof.jpg"
+ },
  "sva-admin/sv-academy-prom-design": {
   "repo": "sva-admin/sv-academy-prom-design",
   "url": "https://raw.githubusercontent.com/sva-admin/sv-academy-prom-design/HEAD/demo/without-skill.png",
