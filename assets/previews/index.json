@@ -59,6 +59,16 @@
   "file": "evidence-codes__loom.gif",
   "still": "evidence-codes__loom.jpg"
  },
+ "justskill-ai/justskill-design": {
+  "repo": "justskill-ai/justskill-design",
+  "url": "https://raw.githubusercontent.com/justskill-ai/justskill-design/HEAD/docs/justskill-demo.gif",
+  "alt": "justSkill in motion: a prompt is copied into the agent, the agent designs the sc",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 3353155,
+  "file": "justskill-ai__justskill-design.gif",
+  "still": "justskill-ai__justskill-design.jpg"
+ },
  "kimsh-1/deck-factory": {
   "repo": "kimsh-1/deck-factory",
   "url": "https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif",

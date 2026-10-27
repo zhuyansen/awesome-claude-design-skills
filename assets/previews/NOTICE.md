@@ -12,6 +12,7 @@ authors and stay under the license of the project they come from. To have one re
 | `ckryptickunal__OpenDesigner.jpg` | [ckryptickunal/OpenDesigner](https://github.com/ckryptickunal/OpenDesigner) | MIT | [source](https://raw.githubusercontent.com/ckryptickunal/OpenDesigner/HEAD/brand/kit/readme/works-in.png) |
 | `diegomarino__tui-design.jpg` | [diegomarino/tui-design](https://github.com/diegomarino/tui-design) | MIT | [source](https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png) |
 | `evidence-codes__loom.gif` | [evidence-codes/loom](https://github.com/evidence-codes/loom) | MIT | [source](https://raw.githubusercontent.com/evidence-codes/loom/HEAD/docs/media/portfolio-now-scroll.gif) |
+| `justskill-ai__justskill-design.gif` | [justskill-ai/justskill-design](https://github.com/justskill-ai/justskill-design) | MIT | [source](https://raw.githubusercontent.com/justskill-ai/justskill-design/HEAD/docs/justskill-demo.gif) |
 | `kimsh-1__deck-factory.gif` | [kimsh-1/deck-factory](https://github.com/kimsh-1/deck-factory) | MIT | [source](https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif) |
 | `nolangz__pixel2motion.gif` | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | MIT | [source](https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif) |
 | `oil-oil__oil-ui.jpg` | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | MIT | [source](https://raw.githubusercontent.com/oil-oil/oil-ui/HEAD/assets/readme/proof-mona-lisa.webp) |
