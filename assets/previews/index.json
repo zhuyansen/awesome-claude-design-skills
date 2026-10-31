@@ -119,6 +119,16 @@
   "file": "sva-admin__sv-academy-prom-design.jpg",
   "still": "sva-admin__sv-academy-prom-design.jpg"
  },
+ "vmc-inner-circle/k-style-ui-ux": {
+  "repo": "vmc-inner-circle/k-style-ui-ux",
+  "url": "https://raw.githubusercontent.com/vmc-inner-circle/k-style-ui-ux/HEAD/docs/images/family-trip.jpg",
+  "alt": "가족여행 PRD로 만든 화면",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 158147,
+  "file": "vmc-inner-circle__k-style-ui-ux.jpg",
+  "still": "vmc-inner-circle__k-style-ui-ux.jpg"
+ },
  "yckonnnnn/zack-design-skills": {
   "repo": "yckonnnnn/zack-design-skills",
   "url": "https://raw.githubusercontent.com/yckonnnnn/zack-design-skills/HEAD/examples/before-after/preview-before.png",
