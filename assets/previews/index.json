@@ -49,6 +49,16 @@
   "file": "diegomarino__tui-design.jpg",
   "still": "diegomarino__tui-design.jpg"
  },
+ "enmerasoftware/ai-design-check": {
+  "repo": "enmerasoftware/ai-design-check",
+  "url": "https://raw.githubusercontent.com/enmerasoftware/ai-design-check/HEAD/examples/unslop-cebbin-swiftui.webp",
+  "alt": "Unslopping a SwiftUI app: the Cebbin home screen before and after",
+  "score": -0.05,
+  "type": "image/webp",
+  "bytes": 29296,
+  "file": "enmerasoftware__ai-design-check.jpg",
+  "still": "enmerasoftware__ai-design-check.jpg"
+ },
  "evidence-codes/loom": {
   "repo": "evidence-codes/loom",
   "url": "https://raw.githubusercontent.com/evidence-codes/loom/HEAD/docs/media/portfolio-now-scroll.gif",
