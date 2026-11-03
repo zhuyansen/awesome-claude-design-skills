@@ -9,6 +9,16 @@
   "file": "ABC-xiaoxuan__award-level-web-design.jpg",
   "still": "ABC-xiaoxuan__award-level-web-design.jpg"
  },
+ "Eronred/designspec": {
+  "repo": "Eronred/designspec",
+  "url": "https://raw.githubusercontent.com/Eronred/designspec/HEAD/site/og.png",
+  "alt": "designspec",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 147205,
+  "file": "Eronred__designspec.jpg",
+  "still": "Eronred__designspec.jpg"
+ },
  "arla6ka/design.how": {
   "repo": "arla6ka/design.how",
   "url": "https://raw.githubusercontent.com/arla6ka/design.how/HEAD/assets/lime.webp",
@@ -108,6 +118,16 @@
   "bytes": 158666,
   "file": "senlindesign__proof.jpg",
   "still": "senlindesign__proof.jpg"
+ },
+ "seungdori/web-stylebook-mcp": {
+  "repo": "seungdori/web-stylebook-mcp",
+  "url": "https://raw.githubusercontent.com/seungdori/web-stylebook-mcp/master/docs/example-throughline-hero.png",
+  "alt": "A landing-page hero an AI agent composed using web-stylebook-mcp — a bespoke fee",
+  "score": -0.75,
+  "type": "image/png",
+  "bytes": 436236,
+  "file": "seungdori__web-stylebook-mcp.jpg",
+  "still": "seungdori__web-stylebook-mcp.jpg"
  },
  "sva-admin/sv-academy-prom-design": {
   "repo": "sva-admin/sv-academy-prom-design",
