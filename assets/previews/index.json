@@ -89,6 +89,16 @@
   "file": "kimsh-1__deck-factory.gif",
   "still": "kimsh-1__deck-factory.jpg"
  },
+ "marcosnovo/unslop-design": {
+  "repo": "marcosnovo/unslop-design",
+  "url": "https://raw.githubusercontent.com/marcosnovo/unslop-design/HEAD/assets/refil-mapa.gif",
+  "alt": "Refil map screen, fix by fix: spacing, color, price, then the station card becom",
+  "score": 2.65,
+  "type": "image/gif",
+  "bytes": 1094315,
+  "file": "marcosnovo__unslop-design.gif",
+  "still": "marcosnovo__unslop-design.jpg"
+ },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
   "url": "https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif",

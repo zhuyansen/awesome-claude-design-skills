@@ -15,6 +15,7 @@ authors and stay under the license of the project they come from. To have one re
 | `evidence-codes__loom.gif` | [evidence-codes/loom](https://github.com/evidence-codes/loom) | MIT | [source](https://raw.githubusercontent.com/evidence-codes/loom/HEAD/docs/media/portfolio-now-scroll.gif) |
 | `justskill-ai__justskill-design.gif` | [justskill-ai/justskill-design](https://github.com/justskill-ai/justskill-design) | MIT | [source](https://raw.githubusercontent.com/justskill-ai/justskill-design/HEAD/docs/justskill-demo.gif) |
 | `kimsh-1__deck-factory.gif` | [kimsh-1/deck-factory](https://github.com/kimsh-1/deck-factory) | MIT | [source](https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif) |
+| `marcosnovo__unslop-design.gif` | [marcosnovo/unslop-design](https://github.com/marcosnovo/unslop-design) | MIT | [source](https://raw.githubusercontent.com/marcosnovo/unslop-design/HEAD/assets/refil-mapa.gif) |
 | `nolangz__pixel2motion.gif` | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | MIT | [source](https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif) |
 | `oil-oil__oil-ui.jpg` | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | MIT | [source](https://raw.githubusercontent.com/oil-oil/oil-ui/HEAD/assets/readme/proof-mona-lisa.webp) |
 | `senlindesign__proof.jpg` | [senlindesign/proof](https://github.com/senlindesign/proof) | MIT | [source](https://raw.githubusercontent.com/senlindesign/proof/HEAD/docs/images/style-minimal.png) |
