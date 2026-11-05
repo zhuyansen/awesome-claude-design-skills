@@ -29,6 +29,16 @@
   "file": "arla6ka__design.how.jpg",
   "still": "arla6ka__design.how.jpg"
  },
+ "beyondtahir/beyondartist": {
+  "repo": "beyondtahir/beyondartist",
+  "url": "https://raw.githubusercontent.com/beyondtahir/beyondartist/HEAD/assets/showcase/front/ideas-dont-behave.jpg",
+  "alt": "Ideas don’t behave — expressive purple and orange mixed-media poster",
+  "score": 1.9,
+  "type": "image/jpeg",
+  "bytes": 292118,
+  "file": "beyondtahir__beyondartist.jpg",
+  "still": "beyondtahir__beyondartist.jpg"
+ },
  "byadityaraj/designmd": {
   "repo": "byadityaraj/designmd",
   "url": "https://raw.githubusercontent.com/byadityaraj/designmd/HEAD/examples/stripe.jpg",

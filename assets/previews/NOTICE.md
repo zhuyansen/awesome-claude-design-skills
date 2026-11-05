@@ -8,6 +8,7 @@ authors and stay under the license of the project they come from. To have one re
 |---|---|---|---|
 | `ABC-xiaoxuan__award-level-web-design.jpg` | [ABC-xiaoxuan/award-level-web-design](https://github.com/ABC-xiaoxuan/award-level-web-design) | MIT | [source](https://raw.githubusercontent.com/ABC-xiaoxuan/award-level-web-design/HEAD/examples/screenshots/09-echo-desktop-demo.png) |
 | `arla6ka__design.how.jpg` | [arla6ka/design.how](https://github.com/arla6ka/design.how) | MIT | [source](https://raw.githubusercontent.com/arla6ka/design.how/HEAD/assets/lime.webp) |
+| `beyondtahir__beyondartist.jpg` | [beyondtahir/beyondartist](https://github.com/beyondtahir/beyondartist) | MIT | [source](https://raw.githubusercontent.com/beyondtahir/beyondartist/HEAD/assets/showcase/front/ideas-dont-behave.jpg) |
 | `byadityaraj__designmd.jpg` | [byadityaraj/designmd](https://github.com/byadityaraj/designmd) | MIT | [source](https://raw.githubusercontent.com/byadityaraj/designmd/HEAD/examples/stripe.jpg) |
 | `ckryptickunal__OpenDesigner.jpg` | [ckryptickunal/OpenDesigner](https://github.com/ckryptickunal/OpenDesigner) | MIT | [source](https://raw.githubusercontent.com/ckryptickunal/OpenDesigner/HEAD/brand/kit/readme/works-in.png) |
 | `diegomarino__tui-design.jpg` | [diegomarino/tui-design](https://github.com/diegomarino/tui-design) | MIT | [source](https://raw.githubusercontent.com/diegomarino/tui-design/HEAD/docs/img/gallery.png) |
