@@ -79,6 +79,36 @@
   "file": "evidence-codes__loom.gif",
   "still": "evidence-codes__loom.jpg"
  },
+ "feimacode/open-design-agent-kit": {
+  "repo": "feimacode/open-design-agent-kit",
+  "url": "https://raw.githubusercontent.com/feimacode/open-design-agent-kit/HEAD/docs/screenshots/examples/gamified-app.png",
+  "alt": "Gamified habit-tracking mobile app, three phone frames",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 292850,
+  "file": "feimacode__open-design-agent-kit.jpg",
+  "still": "feimacode__open-design-agent-kit.jpg"
+ },
+ "gregkozakiewicz/roast-my-design-system": {
+  "repo": "gregkozakiewicz/roast-my-design-system",
+  "url": "https://raw.githubusercontent.com/gregkozakiewicz/roast-my-design-system/HEAD/assets/report-full-dark.jpg?v=10.2.2",
+  "alt": "The full diagnosis report for vercel/ai-chatbot in dark mode: a fixed side panel",
+  "score": -3.0,
+  "type": "image/jpeg",
+  "bytes": 775938,
+  "file": "gregkozakiewicz__roast-my-design-system.jpg",
+  "still": "gregkozakiewicz__roast-my-design-system.jpg"
+ },
+ "jmlweb/storybook-vrhythm": {
+  "repo": "jmlweb/storybook-vrhythm",
+  "url": "https://raw.githubusercontent.com/jmlweb/storybook-vrhythm/main/storybook-vrhythm.jpg",
+  "alt": "Vertical rhythm overlay example",
+  "score": 1.9,
+  "type": "image/jpeg",
+  "bytes": 230677,
+  "file": "jmlweb__storybook-vrhythm.jpg",
+  "still": "jmlweb__storybook-vrhythm.jpg"
+ },
  "justskill-ai/justskill-design": {
   "repo": "justskill-ai/justskill-design",
   "url": "https://raw.githubusercontent.com/justskill-ai/justskill-design/HEAD/docs/justskill-demo.gif",
