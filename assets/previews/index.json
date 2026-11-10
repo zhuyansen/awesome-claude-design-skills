@@ -19,6 +19,16 @@
   "file": "Eronred__designspec.jpg",
   "still": "Eronred__designspec.jpg"
  },
+ "KunalKumarkkr01/design-system-extractor": {
+  "repo": "KunalKumarkkr01/design-system-extractor",
+  "url": "https://raw.githubusercontent.com/KunalKumarkkr01/design-system-extractor/HEAD/banner.png",
+  "alt": "Banner",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 1451944,
+  "file": "KunalKumarkkr01__design-system-extractor.jpg",
+  "still": "KunalKumarkkr01__design-system-extractor.jpg"
+ },
  "arla6ka/design.how": {
   "repo": "arla6ka/design.how",
   "url": "https://raw.githubusercontent.com/arla6ka/design.how/HEAD/assets/lime.webp",
@@ -158,6 +168,16 @@
   "bytes": 109066,
   "file": "oil-oil__oil-ui.jpg",
   "still": "oil-oil__oil-ui.jpg"
+ },
+ "precious112/caret-desktop": {
+  "repo": "precious112/caret-desktop",
+  "url": "https://raw.githubusercontent.com/precious112/caret-desktop/HEAD/assets/docs/edit-text.gif",
+  "alt": "Editing a headline directly on the page, and Caret confirming the edit landed in",
+  "score": 2.7,
+  "type": "image/gif",
+  "bytes": 1890766,
+  "file": "precious112__caret-desktop.gif",
+  "still": "precious112__caret-desktop.jpg"
  },
  "senlindesign/proof": {
   "repo": "senlindesign/proof",
