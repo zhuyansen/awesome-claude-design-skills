@@ -149,6 +149,16 @@
   "file": "marcosnovo__unslop-design.gif",
   "still": "marcosnovo__unslop-design.jpg"
  },
+ "nexu-io/openmotion": {
+  "repo": "nexu-io/openmotion",
+  "url": "https://raw.githubusercontent.com/nexu-io/openmotion/HEAD/docs/readme/live-templates/many-possible-futures.gif",
+  "alt": "Build a story from multiple scenes",
+  "score": 4.35,
+  "type": "image/gif",
+  "bytes": 1510425,
+  "file": "nexu-io__openmotion.gif",
+  "still": "nexu-io__openmotion.jpg"
+ },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
   "url": "https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif",
