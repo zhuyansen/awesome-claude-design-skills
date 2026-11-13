@@ -149,16 +149,6 @@
   "file": "marcosnovo__unslop-design.gif",
   "still": "marcosnovo__unslop-design.jpg"
  },
- "nexu-io/openmotion": {
-  "repo": "nexu-io/openmotion",
-  "url": "https://raw.githubusercontent.com/nexu-io/openmotion/HEAD/docs/readme/live-templates/many-possible-futures.gif",
-  "alt": "Build a story from multiple scenes",
-  "score": 4.35,
-  "type": "image/gif",
-  "bytes": 1510425,
-  "file": "nexu-io__openmotion.gif",
-  "still": "nexu-io__openmotion.jpg"
- },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
   "url": "https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif",
@@ -168,6 +158,16 @@
   "bytes": 152210,
   "file": "nolangz__pixel2motion.gif",
   "still": "nolangz__pixel2motion.jpg"
+ },
+ "obaid1dev/dea": {
+  "repo": "obaid1dev/dea",
+  "url": "https://raw.githubusercontent.com/obaid1dev/dea/HEAD/examples/lumen-demo/compare/side-by-side.png",
+  "alt": "A reference design on the left and a different brand built only from the extract",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 299732,
+  "file": "obaid1dev__dea.jpg",
+  "still": "obaid1dev__dea.jpg"
  },
  "oil-oil/oil-ui": {
   "repo": "oil-oil/oil-ui",
@@ -208,6 +208,16 @@
   "bytes": 436236,
   "file": "seungdori__web-stylebook-mcp.jpg",
   "still": "seungdori__web-stylebook-mcp.jpg"
+ },
+ "superdesigndev/superdesign-prompts": {
+  "repo": "superdesigndev/superdesign-prompts",
+  "url": "https://raw.githubusercontent.com/superdesigndev/superdesign-prompts/HEAD/prompts/hyperspeed-background/preview.gif",
+  "alt": "Hyperspeed Background",
+  "score": 4.15,
+  "type": "image/gif",
+  "bytes": 2330176,
+  "file": "superdesigndev__superdesign-prompts.jpg",
+  "still": "superdesigndev__superdesign-prompts.jpg"
  },
  "sva-admin/sv-academy-prom-design": {
   "repo": "sva-admin/sv-academy-prom-design",
