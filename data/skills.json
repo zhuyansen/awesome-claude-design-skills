@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "source": "https://agentskillshub.top/best/ai-design/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
    "path": null,
-   "stars": 151223,
+   "stars": 151648,
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "kind": "ui",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "Leonxlnx/taste-skill",
    "path": null,
-   "stars": 118219,
+   "stars": 118781,
    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
    "kind": "ui",
    "security_grade": "safe",
@@ -63,7 +63,7 @@
   {
    "repo_full_name": "emilkowalski/skills",
    "path": null,
-   "stars": 57945,
+   "stars": 58134,
    "description": "Skills for Designers and Engineers.",
    "kind": "ui",
    "security_grade": "safe",
@@ -73,7 +73,7 @@
   {
    "repo_full_name": "Nutlope/hallmark",
    "path": null,
-   "stars": 57354,
+   "stars": 57921,
    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
    "kind": "ui",
    "security_grade": "safe",
@@ -83,7 +83,7 @@
   {
    "repo_full_name": "alchaincyf/huashu-design",
    "path": null,
-   "stars": 29807,
+   "stars": 29875,
    "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
    "kind": "ui",
    "security_grade": "safe",
@@ -93,7 +93,7 @@
   {
    "repo_full_name": "MengTo/Skills",
    "path": null,
-   "stars": 7713,
+   "stars": 7760,
    "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
    "kind": "ui",
    "security_grade": "safe",
@@ -101,19 +101,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Appllama/appllama-skills",
-   "path": null,
-   "stars": 5229,
-   "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
-   "kind": "ui",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "nateherkai/scroll-craft",
    "path": null,
-   "stars": 5225,
+   "stars": 5256,
    "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
    "kind": "ui",
    "security_grade": "safe",
@@ -121,9 +111,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Appllama/appllama-skills",
+   "path": null,
+   "stars": 5231,
+   "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
+   "kind": "ui",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "dickwu/apple-design-skill",
    "path": null,
-   "stars": 3546,
+   "stars": 3590,
    "description": "Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex.",
    "kind": "ui",
    "security_grade": "safe",
@@ -133,7 +133,7 @@
   {
    "repo_full_name": "oil-oil/oil-ui",
    "path": null,
-   "stars": 3514,
+   "stars": 3549,
    "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。",
    "kind": "ui",
    "security_grade": "safe",
@@ -143,7 +143,7 @@
   {
    "repo_full_name": "dominikmartn/nothing-design-skill",
    "path": null,
-   "stars": 2889,
+   "stars": 2893,
    "description": "A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.",
    "kind": "ui",
    "security_grade": "safe",
@@ -153,7 +153,7 @@
   {
    "repo_full_name": "bergside/typeui",
    "path": null,
-   "stars": 2264,
+   "stars": 2262,
    "description": "Build better UI with AI",
    "kind": "ui",
    "security_grade": "safe",
@@ -173,7 +173,7 @@
   {
    "repo_full_name": "Trystan-SA/claude-design-system-prompt",
    "path": null,
-   "stars": 2063,
+   "stars": 2065,
    "description": "Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator.",
    "kind": "ui",
    "security_grade": "safe",
@@ -181,19 +181,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "agiwhitelist/auteur",
-   "path": null,
-   "stars": 1053,
-   "description": "The Claude Code skill that directs a website like a film. Commit-sheet, generated assets, build, and an executable anti-slop linter that gates every ship.",
-   "kind": "ui",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "superdesigndev/superdesign-skill",
    "path": null,
-   "stars": 1025,
+   "stars": 1027,
    "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
    "kind": "ui",
    "security_grade": "safe",
@@ -205,6 +195,16 @@
    "path": null,
    "stars": 1023,
    "description": "Open-source design-method engine for Claude Code, Codex & Cursor. One agent skill with 22 internal workflows for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.",
+   "kind": "ui",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "agiwhitelist/auteur",
+   "path": null,
+   "stars": 962,
+   "description": "The Claude Code skill that directs a website like a film. Commit-sheet, generated assets, build, and an executable anti-slop linter that gates every ship.",
    "kind": "ui",
    "security_grade": "safe",
    "language": "JavaScript",
@@ -223,7 +223,7 @@
   {
    "repo_full_name": "INSANE0777/Awwwards-mcp",
    "path": null,
-   "stars": 846,
+   "stars": 865,
    "description": "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key.",
    "kind": "ui",
    "security_grade": "safe",
@@ -233,7 +233,7 @@
   {
    "repo_full_name": "xiaopu-ai/web-design",
    "path": null,
-   "stars": 823,
+   "stars": 824,
    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second. ",
    "kind": "ui",
    "security_grade": "safe",
@@ -243,7 +243,7 @@
   {
    "repo_full_name": "AThevon/genjutsu",
    "path": null,
-   "stars": 818,
+   "stars": 820,
    "description": "Creative coding skills for Claude Code, claude.ai and Cowork. Motion, micro-interactions and design systems across Web (GSAP, Motion, Three.js, CSS), Android (Jetpack Compose) and Apple (SwiftUI). Proposes an interaction thesis you approve before it writes any code. Anti-AI-slop.",
    "kind": "ui",
    "security_grade": "safe",
@@ -253,7 +253,7 @@
   {
    "repo_full_name": "ItsssssJack/power-design",
    "path": null,
-   "stars": 778,
+   "stars": 782,
    "description": "A Claude skill for slides that don't look like AI made them. Brand DNA × 20 codified design principles.",
    "kind": "ui",
    "security_grade": "safe",
@@ -273,7 +273,7 @@
   {
    "repo_full_name": "pulkitxm/claude-directory",
    "path": null,
-   "stars": 689,
+   "stars": 690,
    "description": "AI-assisted design experiments with documented asset provenance, scoped licensing, and reviewed developer starting points.",
    "kind": "ui",
    "security_grade": "safe",
@@ -283,7 +283,7 @@
   {
    "repo_full_name": "julianoczkowski/designer-skills",
    "path": null,
-   "stars": 611,
+   "stars": 612,
    "description": "A collection of agent skills for designers who prototype and build with AI coding tools. These skills encode design process so AI follows a structured path instead of producing random output.",
    "kind": "ui",
    "security_grade": "safe",
@@ -293,7 +293,7 @@
   {
    "repo_full_name": "ceorkm/mobile-app-ui-design",
    "path": null,
-   "stars": 566,
+   "stars": 568,
    "description": "Professional mobile app UI/UX design skill for Claude Code",
    "kind": "ui",
    "security_grade": "safe",
@@ -303,7 +303,7 @@
   {
    "repo_full_name": "codeswithroh/tastemaker",
    "path": null,
-   "stars": 556,
+   "stars": 557,
    "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, instead of generic AI-slop defaults.",
    "kind": "ui",
    "security_grade": "safe",
@@ -313,7 +313,7 @@
   {
    "repo_full_name": "senlindesign/taste-skill",
    "path": null,
-   "stars": 501,
+   "stars": 504,
    "description": "Claude Code skill — reverse-engineer any website's design taste: concrete tokens + opinionated trade-offs (WHY, not just WHAT)",
    "kind": "ui",
    "security_grade": "safe",
@@ -333,7 +333,7 @@
   {
    "repo_full_name": "educlopez/ui-craft",
    "path": null,
-   "stars": 465,
+   "stars": 467,
    "description": "Design engineering system for AI coding agents — ship UI with craft-level quality. Install as an agent skill.",
    "kind": "ui",
    "security_grade": "safe",
@@ -343,7 +343,7 @@
   {
    "repo_full_name": "vmc-inner-circle/k-style-ui-ux",
    "path": null,
-   "stars": 406,
+   "stars": 408,
    "description": "PRD 한 장으로 한국 앱 스타일 모바일 화면 초안을 15분 안팎에 만드는 Claude Code·Codex 플러그인",
    "kind": "ui",
    "security_grade": "safe",
@@ -353,7 +353,7 @@
   {
    "repo_full_name": "tenfoldmarc/website-builder-setup",
    "path": null,
-   "stars": 389,
+   "stars": 390,
    "description": "Build professional animated websites with Claude Code — no coding needed. One install, three tools: UI/UX Pro Max + Framer Motion + 21st.dev. By @tenfoldmarc",
    "kind": "ui",
    "security_grade": "safe",
@@ -363,7 +363,7 @@
   {
    "repo_full_name": "Adityaraj0421/naksha-studio",
    "path": null,
-   "stars": 355,
+   "stars": 356,
    "description": "A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 30 roles, 70 commands, 16,000+ lines of expert design knowledge. Your agency's design brain, inside your terminal.",
    "kind": "ui",
    "security_grade": "safe",
@@ -373,7 +373,7 @@
   {
    "repo_full_name": "referodesign/refero_skill",
    "path": null,
-   "stars": 354,
+   "stars": 356,
    "description": "Research-first design skill for AI agents. 150K+ real app screens and flows via Refero MCP.",
    "kind": "ui",
    "security_grade": "safe",
@@ -393,7 +393,7 @@
   {
    "repo_full_name": "enmerasoftware/ai-design-check",
    "path": null,
-   "stars": 253,
+   "stars": 256,
    "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
    "kind": "ui",
    "security_grade": "safe",
@@ -403,7 +403,7 @@
   {
    "repo_full_name": "axiaoge2/Apple-Hig-Designer",
    "path": null,
-   "stars": 230,
+   "stars": 233,
    "description": "A Agent Skill for designing professional interfaces following Apple Human Interface Guidelines 一项用于设计苹果前端交互界面的代理技能",
    "kind": "ui",
    "security_grade": "safe",
@@ -433,11 +433,21 @@
   {
    "repo_full_name": "jiji262/claude-design-skill",
    "path": null,
-   "stars": 220,
+   "stars": 221,
    "description": "A portable Claude Skill that turns Claude into an expert designer for HTML artifacts — decks, landing pages, prototypes, animations, posters. Adapted from Claude.ai's internal Design system prompt.",
    "kind": "ui",
    "security_grade": "safe",
    "language": "HTML",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Wholiver/swiftui-design-skill",
+   "path": null,
+   "stars": 214,
+   "description": "SwiftUI Front-End Design Skills — Six Ironclad Rules Against AI Sloppiness, Design Direction Consulting, Brand Asset Guidelines, and Five-Dimensional Review. Supports all AI agent platforms, including Claude Code, Cursor, Codex, and OpenCode.",
+   "kind": "ui",
+   "security_grade": "safe",
+   "language": null,
    "license": "MIT"
   },
   {
@@ -451,29 +461,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Wholiver/swiftui-design-skill",
-   "path": null,
-   "stars": 213,
-   "description": "SwiftUI Front-End Design Skills — Six Ironclad Rules Against AI Sloppiness, Design Direction Consulting, Brand Asset Guidelines, and Five-Dimensional Review. Supports all AI agent platforms, including Claude Code, Cursor, Codex, and OpenCode.",
-   "kind": "ui",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "dembrandt/dembrandt-skills",
-   "path": null,
-   "stars": 196,
-   "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
-   "kind": "ui",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "ganavisk/nextlevelbuilder-ui-ux-pro-max-skill-Public",
    "path": null,
-   "stars": 196,
+   "stars": 198,
    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
    "kind": "ui",
    "security_grade": "safe",
@@ -481,9 +471,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "dembrandt/dembrandt-skills",
+   "path": null,
+   "stars": 197,
+   "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
+   "kind": "ui",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "yzfly/awesome-design-html",
    "path": null,
-   "stars": 195,
+   "stars": 196,
    "description": "115 brand-themed HTML designs as a Claude Code skill (93 web + 22 iOS, incl. 20 China showcase). Install in one line, then talk: 'do a Linear-style page', '飞书风的页面', 'Spotify Now Playing iPhone mockup'.",
    "kind": "ui",
    "security_grade": "safe",
@@ -493,7 +493,7 @@
   {
    "repo_full_name": "touchine-ojo/OJO-Design-Skills",
    "path": null,
-   "stars": 192,
+   "stars": 193,
    "description": "Reusable UI/UX design skills for AI coding agents — Codex, Claude Code, ZCode, and more.",
    "kind": "ui",
    "security_grade": "safe",
@@ -503,7 +503,7 @@
   {
    "repo_full_name": "Ilm-Alan/frontend-design",
    "path": null,
-   "stars": 175,
+   "stars": 179,
    "description": "Frontend design skill for Claude Code, Codex, and Gemini CLI. Eight aesthetic anchors, each locking palette, typography, and texture to specific CSS tokens. Pick one per brief.",
    "kind": "ui",
    "security_grade": "safe",
@@ -541,6 +541,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "albertirgi/replica",
+   "path": null,
+   "stars": 127,
+   "description": "Rebuild any UI from a reference and prove it with a score. An Agent Skill for Claude Code and other coding agents: captures a site, screenshot or screen recording, then scores the clone on layout, style, pixels and motion until it passes.",
+   "kind": "ui",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "HermeticOrmus/LibreUIUX-Claude-Code",
    "path": null,
    "stars": 126,
@@ -548,16 +558,6 @@
    "kind": "ui",
    "security_grade": "safe",
    "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "albertirgi/replica",
-   "path": null,
-   "stars": 124,
-   "description": "Rebuild any UI from a reference and prove it with a score. An Agent Skill for Claude Code and other coding agents: captures a site, screenshot or screen recording, then scores the clone on layout, style, pixels and motion until it passes.",
-   "kind": "ui",
-   "security_grade": "safe",
-   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -611,6 +611,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Laith0003/ux-skill",
+   "path": null,
+   "stars": 108,
+   "description": "Design intelligence engine for AI coding tools. A 171-rule anti-AI-slop linter, 160 brand specs, a 7-axis synthesizer, a WCAG-gated design system generator with Arabic and right to left built in, 25 MCP tools, 18 commands, 17 IDEs. Offline, never calls an LLM. MIT.",
+   "kind": "ui",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "ihlamury/design-skills",
    "path": null,
    "stars": 108,
@@ -631,16 +641,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Laith0003/ux-skill",
-   "path": null,
-   "stars": 106,
-   "description": "Design intelligence engine for AI coding tools. A 171-rule anti-AI-slop linter, 160 brand specs, a 7-axis synthesizer, a WCAG-gated design system generator with Arabic and right to left built in, 25 MCP tools, 18 commands, 17 IDEs. Offline, never calls an LLM. MIT.",
-   "kind": "ui",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "MaxHan7/frontend-ui-standards-skill",
    "path": null,
    "stars": 105,
@@ -653,11 +653,21 @@
   {
    "repo_full_name": "saifyxpro/ui-ux-design-pro-skill",
    "path": null,
-   "stars": 103,
+   "stars": 104,
    "description": "AI spairings, 150+ reasoning rules, CLI, and 18 platform templates. Works with Claude, Cursor, Windsurf, Copilot, Antigravity, Cline & more.kill for premium UI/UX design — 107 styles, 127 palettes, 107 font ",
    "kind": "ui",
    "security_grade": "safe",
    "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "szilu/ux-designer-skill",
+   "path": null,
+   "stars": 100,
+   "description": "A Claude Code skill that provides comprehensive UX/UI design guidance based on modern best practices (2026).",
+   "kind": "ui",
+   "security_grade": "safe",
+   "language": null,
    "license": "MIT"
   },
   {
@@ -671,19 +681,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "szilu/ux-designer-skill",
-   "path": null,
-   "stars": 98,
-   "description": "A Claude Code skill that provides comprehensive UX/UI design guidance based on modern best practices (2026).",
-   "kind": "ui",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "PyModel/niblet-skill-mcp",
    "path": null,
-   "stars": 93,
+   "stars": 92,
    "description": "MCP server and design skill that grounds coding-agent UI work in real product screens. Two tools, npx-installable.",
    "kind": "ui",
    "security_grade": "safe",
@@ -723,7 +723,7 @@
   {
    "repo_full_name": "haider-nawaz/liquid-glass-skill",
    "path": null,
-   "stars": 83,
+   "stars": 84,
    "description": "Claude Code skill for building and migrating Apple platform apps with SwiftUI Liquid Glass design system (iOS 26+, macOS 26+)",
    "kind": "ui",
    "security_grade": "safe",
@@ -753,7 +753,7 @@
   {
    "repo_full_name": "superdesigndev/superdesign-prompts",
    "path": null,
-   "stars": 78,
+   "stars": 79,
    "description": "128 usage-ranked, vision-curated UI design prompts (full design specs + live previews) that stop your AI coding agent from shipping generic AI-slop UI. Powered by superdesign.dev",
    "kind": "ui",
    "security_grade": "safe",
@@ -903,7 +903,7 @@
   {
    "repo_full_name": "SandroHub013/awwwards-skill",
    "path": null,
-   "stars": 19,
+   "stars": 21,
    "description": "Awwwards is not a style, it's a scoring system. A Claude Code skill that encodes the Design 40 / Usability 30 / Creativity 20 / Content 10 rubric as an 8-phase build method, with 18 references, working templates and a runnable real-browser audit.",
    "kind": "ui",
    "security_grade": "safe",
@@ -1063,7 +1063,7 @@
   {
    "repo_full_name": "nexu-io/open-design",
    "path": null,
-   "stars": 108287,
+   "stars": 108473,
    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
    "kind": "system",
    "security_grade": "safe",
@@ -1073,7 +1073,7 @@
   {
    "repo_full_name": "Manavarya09/design-extract",
    "path": null,
-   "stars": 5150,
+   "stars": 5158,
    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
    "kind": "system",
    "security_grade": "safe",
@@ -1083,7 +1083,7 @@
   {
    "repo_full_name": "plugin87/ux-ui-agent-skills",
    "path": null,
-   "stars": 3194,
+   "stars": 3205,
    "description": "Design-system skills for Claude Code, Codex, Cursor, Copilot and Gemini CLI: DTCG tokens, WCAG 2.2 AA to AAA, 2,144 design systems, 26 skills, any-framework code, and 52 gates that fail the build instead of taking the agent's word for it.",
    "kind": "system",
    "security_grade": "safe",
@@ -1093,7 +1093,7 @@
   {
    "repo_full_name": "bergside/design-md-chrome",
    "path": null,
-   "stars": 3192,
+   "stars": 3195,
    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
    "kind": "system",
    "security_grade": "safe",
@@ -1103,7 +1103,7 @@
   {
    "repo_full_name": "feimacode/open-design-agent-kit",
    "path": null,
-   "stars": 1149,
+   "stars": 1157,
    "description": "Make posters, social posts, slides and landing pages in the coding agent or chat you already use (Copilot, Claude, Codex, Cursor), with 198 design systems, checks and PDF/PNG/PowerPoint export.",
    "kind": "system",
    "security_grade": "safe",
@@ -1113,7 +1113,7 @@
   {
    "repo_full_name": "op7418/dsh-guizang-design",
    "path": null,
-   "stars": 972,
+   "stars": 991,
    "description": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
    "kind": "system",
    "security_grade": "safe",
@@ -1123,7 +1123,7 @@
   {
    "repo_full_name": "dominikmartn/hue",
    "path": null,
-   "stars": 922,
+   "stars": 923,
    "description": "open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.",
    "kind": "system",
    "security_grade": "safe",
@@ -1133,7 +1133,7 @@
   {
    "repo_full_name": "AnxForever/stylekit",
    "path": null,
-   "stars": 858,
+   "stars": 865,
    "description": "StyleKit（stylekit.top）— 149 curated web & UI design styles with copy-ready AI prompts, design tokens and component recipes. Open-source, by AnxForever.",
    "kind": "system",
    "security_grade": "safe",
@@ -1143,7 +1143,7 @@
   {
    "repo_full_name": "Railly/tinte",
    "path": null,
-   "stars": 631,
+   "stars": 632,
    "description": "Compile your design system into an Agent Plugin. Extract an identity from any reference, emit SKILL.md + tokens.css, lint what bypasses your tokens.",
    "kind": "system",
    "security_grade": "safe",
@@ -1153,7 +1153,7 @@
   {
    "repo_full_name": "kwakseongjae/oh-my-design",
    "path": null,
-   "stars": 593,
+   "stars": 594,
    "description": "Give your AI coding agent a design system. One command installs 500+ quality-graded company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.",
    "kind": "system",
    "security_grade": "safe",
@@ -1163,7 +1163,7 @@
   {
    "repo_full_name": "marvkr/better-design",
    "path": null,
-   "stars": 586,
+   "stars": 587,
    "description": "🎨 Open-source design MCP server + shadcn/ui registry — AI design systems for Claude Code, Cursor, Codex, GitHub Copilot & any MCP client. 31 brand-grade themes (Linear, Stripe, Vercel, Notion, Apple, Supabase, Figma…) + design tokens, UI principles & WCAG rules. Install any component with one command.",
    "kind": "system",
    "security_grade": "safe",
@@ -1173,7 +1173,7 @@
   {
    "repo_full_name": "arla6ka/design.how",
    "path": null,
-   "stars": 505,
+   "stars": 579,
    "description": "Design systems, skills and visuals for coding agents",
    "kind": "system",
    "security_grade": "safe",
@@ -1183,7 +1183,7 @@
   {
    "repo_full_name": "guiguiyan930-source/game-ui-design-workflow",
    "path": null,
-   "stars": 455,
+   "stars": 460,
    "description": "一套面向游戏 UI 设计的 Cursor Agent Skills 工作流，覆盖原型视觉生成、风格切换、页面延展与组件拆解，并通过 Spec-Kit 文档、视觉契约和资源清单保证多页面一致性与可交付性。",
    "kind": "system",
    "security_grade": "safe",
@@ -1193,7 +1193,7 @@
   {
    "repo_full_name": "skydashnet/material-design-3-ui-skill",
    "path": null,
-   "stars": 344,
+   "stars": 371,
    "description": "A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3, Material You, M3 Expressive, accessibility, adaptive layouts, and semantic design tokens.",
    "kind": "system",
    "security_grade": "safe",
@@ -1203,7 +1203,7 @@
   {
    "repo_full_name": "arvindrk/extract-design-system",
    "path": null,
-   "stars": 290,
+   "stars": 292,
    "description": "Extract design tokens (colors, typography, spacing, border radius, shadows) from any public website. Generates JSON and CSS custom properties for local projects. Available as an AI agent skill (Claude, Cursor, Codex) and standalone CLI.",
    "kind": "system",
    "security_grade": "safe",
@@ -1219,6 +1219,16 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "diego3g/craft",
+   "path": null,
+   "stars": 271,
+   "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
+   "kind": "system",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "redongreen/uSpec",
@@ -1251,16 +1261,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "diego3g/craft",
-   "path": null,
-   "stars": 219,
-   "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
-   "kind": "system",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "NOASSERTION"
-  },
-  {
    "repo_full_name": "senlindesign/claude2figma",
    "path": null,
    "stars": 208,
@@ -1283,7 +1283,7 @@
   {
    "repo_full_name": "ckryptickunal/OpenDesigner",
    "path": null,
-   "stars": 187,
+   "stars": 192,
    "description": "A free, open-source add-on for Claude, ChatGPT, Codex and Cursor that turns a few plain answers into a design system, so everything you build looks like it belongs together.",
    "kind": "system",
    "security_grade": "safe",
@@ -1331,6 +1331,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Devesh-Shirsath/spotkit",
+   "path": null,
+   "stars": 110,
+   "description": "Spotkit — a Claude Code skill that turns a feature description into minimal, abstract SVG product illustrations that all belong to one design system.",
+   "kind": "system",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "bluzir/claude-code-design",
    "path": null,
    "stars": 110,
@@ -1339,16 +1349,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": null
-  },
-  {
-   "repo_full_name": "Devesh-Shirsath/spotkit",
-   "path": null,
-   "stars": 109,
-   "description": "Spotkit — a Claude Code skill that turns a feature description into minimal, abstract SVG product illustrations that all belong to one design system.",
-   "kind": "system",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
   },
   {
    "repo_full_name": "Bearisbug/Quilt",
@@ -1373,7 +1373,7 @@
   {
    "repo_full_name": "educlopez/design-bites",
    "path": null,
-   "stars": 93,
+   "stars": 94,
    "description": "Curated DESIGN.md files for inspiring websites — design systems decoded for AI agents. By Sparkbites.",
    "kind": "system",
    "security_grade": "safe",
@@ -1403,7 +1403,7 @@
   {
    "repo_full_name": "byadityaraj/designmd",
    "path": null,
-   "stars": 77,
+   "stars": 76,
    "description": "Production-grade design context for AI coding workflows. Extract a real design system from any URL — colors, typography, spacing, breakpoints — as a portable DESIGN.md.",
    "kind": "system",
    "security_grade": "safe",
@@ -1441,16 +1441,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "gregkozakiewicz/roast-my-design-system",
-   "path": null,
-   "stars": 65,
-   "description": "AI design system scanner + mcp server. Scores repos 0-100, writes fix prompts. 30K+ npm downloads.",
-   "kind": "system",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "hakilee/design-farmer",
    "path": null,
    "stars": 63,
@@ -1459,6 +1449,16 @@
    "security_grade": "safe",
    "language": "Shell",
    "license": null
+  },
+  {
+   "repo_full_name": "gregkozakiewicz/roast-my-design-system",
+   "path": null,
+   "stars": 61,
+   "description": "AI design system scanner + mcp server. Scores repos 0-100, writes fix prompts. 30K+ npm downloads.",
+   "kind": "system",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "jubscodes/get-shit-pretty",
@@ -1503,7 +1503,7 @@
   {
    "repo_full_name": "lemonteaau/smartisan-ui-skill",
    "path": null,
-   "stars": 42,
+   "stars": 43,
    "description": "用于构建Smartisan OS风格UI的Agent Skill",
    "kind": "system",
    "security_grade": "safe",
@@ -1513,7 +1513,7 @@
   {
    "repo_full_name": "seungdori/web-stylebook-mcp",
    "path": null,
-   "stars": 31,
+   "stars": 28,
    "description": "MCP server that gives AI coding agents scored design directions, UI-state plans, and WCAG-checked design tokens. Deterministic, offline, no API key.",
    "kind": "system",
    "security_grade": "safe",
@@ -1533,8 +1533,18 @@
   {
    "repo_full_name": "dgesteves/onsystem",
    "path": null,
-   "stars": 20,
+   "stars": 19,
    "description": "Keeps coding agents on your design system: catches palette colors, native elements and APIs your system lacks, at every edit and pull request, with the fix. Set it up once in your design-system package; every app in your monorepo gets it.",
+   "kind": "system",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Eronred/designspec",
+   "path": null,
+   "stars": 15,
+   "description": "Keep AI-written UI on your design system: a spec of your tokens and components that coding agents follow and CI enforces.",
    "kind": "system",
    "security_grade": "safe",
    "language": "TypeScript",
@@ -1548,16 +1558,6 @@
    "kind": "system",
    "security_grade": "safe",
    "language": "HTML",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "Eronred/designspec",
-   "path": null,
-   "stars": 13,
-   "description": "Keep AI-written UI on your design system: a spec of your tokens and components that coding agents follow and CI enforces.",
-   "kind": "system",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1623,7 +1623,7 @@
   {
    "repo_full_name": "GLips/Figma-Context-MCP",
    "path": null,
-   "stars": 16248,
+   "stars": 16263,
    "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
    "kind": "tool_mcp",
    "security_grade": "safe",
@@ -1633,7 +1633,7 @@
   {
    "repo_full_name": "southleft/figma-console-mcp",
    "path": null,
-   "stars": 3355,
+   "stars": 3367,
    "description": "Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.",
    "kind": "tool_mcp",
    "security_grade": "safe",
@@ -1643,7 +1643,7 @@
   {
    "repo_full_name": "arinspunk/claude-talk-to-figma-mcp",
    "path": null,
-   "stars": 680,
+   "stars": 682,
    "description": "A Model Context Protocol (MCP) that allows Claude Desktop and other AI tools (Claude Code, Cursor, Antigravity, etc.) to read, analyze, and modify Figma designs",
    "kind": "tool_mcp",
    "security_grade": "safe",
@@ -1663,7 +1663,7 @@
   {
    "repo_full_name": "moguzbulbul/blueprint-animation",
    "path": null,
-   "stars": 440,
+   "stars": 441,
    "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
    "kind": "tool_mcp",
    "security_grade": "safe",
@@ -1793,7 +1793,7 @@
   {
    "repo_full_name": "onlook-dev/onlook",
    "path": null,
-   "stars": 27258,
+   "stars": 27267,
    "description": "The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.",
    "kind": "to_code",
    "security_grade": "safe",
@@ -1803,7 +1803,7 @@
   {
    "repo_full_name": "google-labs-code/stitch-skills",
    "path": null,
-   "stars": 10317,
+   "stars": 10619,
    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
    "kind": "to_code",
    "security_grade": "safe",
@@ -1813,7 +1813,7 @@
   {
    "repo_full_name": "OpenCoworkAI/open-codesign",
    "path": null,
-   "stars": 8239,
+   "stars": 8243,
    "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
    "kind": "to_code",
    "security_grade": "safe",
@@ -1823,7 +1823,7 @@
   {
    "repo_full_name": "ZSeven-W/openpencil",
    "path": null,
-   "stars": 7278,
+   "stars": 7295,
    "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
    "kind": "to_code",
    "security_grade": "safe",
@@ -1833,7 +1833,7 @@
   {
    "repo_full_name": "nolangz/pixel2motion",
    "path": null,
-   "stars": 2677,
+   "stars": 2683,
    "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
    "kind": "to_code",
    "security_grade": "safe",
@@ -1843,7 +1843,7 @@
   {
    "repo_full_name": "kgoedecke/doop",
    "path": null,
-   "stars": 2136,
+   "stars": 2163,
    "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
    "kind": "to_code",
    "security_grade": "safe",
@@ -1853,7 +1853,7 @@
   {
    "repo_full_name": "oil-oil/draw-ui",
    "path": null,
-   "stars": 564,
+   "stars": 566,
    "description": "UI design & mockup skill for Claude Code & Codex, from screenshot to code. 帮你出 UI 设计稿并还原成页面。",
    "kind": "to_code",
    "security_grade": "safe",
@@ -1913,7 +1913,7 @@
   {
    "repo_full_name": "nexu-io/openmotion",
    "path": null,
-   "stars": 11686,
+   "stars": 12525,
    "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
    "kind": "graphics",
    "security_grade": "safe",
@@ -1923,7 +1923,7 @@
   {
    "repo_full_name": "kaankiziltug/logo-design-skill",
    "path": null,
-   "stars": 7266,
+   "stars": 7338,
    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
    "kind": "graphics",
    "security_grade": "safe",
@@ -1933,7 +1933,7 @@
   {
    "repo_full_name": "yanliudesign/mono-color-skill",
    "path": null,
-   "stars": 3674,
+   "stars": 3695,
    "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
    "kind": "graphics",
    "security_grade": "safe",
@@ -1943,7 +1943,7 @@
   {
    "repo_full_name": "op7418/logo-generator-skill",
    "path": null,
-   "stars": 2385,
+   "stars": 2389,
    "description": "logo-generator-skill",
    "kind": "graphics",
    "security_grade": "safe",
@@ -1953,7 +1953,7 @@
   {
    "repo_full_name": "joeseesun/qiaomu-mondo-poster-design",
    "path": null,
-   "stars": 1396,
+   "stars": 1398,
    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封",
    "kind": "graphics",
    "security_grade": "safe",
@@ -1963,7 +1963,7 @@
   {
    "repo_full_name": "kubai087/kubai-icons",
    "path": null,
-   "stars": 996,
+   "stars": 1036,
    "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
    "kind": "graphics",
    "security_grade": "safe",
@@ -2033,7 +2033,7 @@
   {
    "repo_full_name": "beyondtahir/beyondartist",
    "path": null,
-   "stars": 70,
+   "stars": 69,
    "description": "AI design skill for freelancers, content creators and digital marketers. Think like a designer. Execute like an artist.",
    "kind": "graphics",
    "security_grade": "safe",
@@ -2063,7 +2063,7 @@
   {
    "repo_full_name": "Owl-Listener/designer-skills",
    "path": null,
-   "stars": 3414,
+   "stars": 3428,
    "description": "Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.",
    "kind": "review",
    "security_grade": "safe",
@@ -2073,7 +2073,7 @@
   {
    "repo_full_name": "kylezantos/design-motion-principles",
    "path": null,
-   "stars": 1605,
+   "stars": 1611,
    "description": "A motion design skill with two modes — build interactive components with purposeful motion, or audit existing animations. Context-aware, per-designer guidance distilled from the published work of Emil Kowalski, Jakub Krehel, and Jhey Tompkins.",
    "kind": "review",
    "security_grade": "safe",
