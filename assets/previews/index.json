@@ -199,6 +199,16 @@
   "file": "precious112__caret-desktop.gif",
   "still": "precious112__caret-desktop.jpg"
  },
+ "pycodebr/hedesign": {
+  "repo": "pycodebr/hedesign",
+  "url": "https://raw.githubusercontent.com/pycodebr/hedesign/HEAD/docs/img/exemplo-resultados-light.webp",
+  "alt": "Resultados",
+  "score": 0.6,
+  "type": "image/webp",
+  "bytes": 60254,
+  "file": "pycodebr__hedesign.jpg",
+  "still": "pycodebr__hedesign.jpg"
+ },
  "senlindesign/proof": {
   "repo": "senlindesign/proof",
   "url": "https://raw.githubusercontent.com/senlindesign/proof/HEAD/docs/images/style-minimal.png",
@@ -208,6 +218,16 @@
   "bytes": 158666,
   "file": "senlindesign__proof.jpg",
   "still": "senlindesign__proof.jpg"
+ },
+ "sergiobanhos/generate-icons": {
+  "repo": "sergiobanhos/generate-icons",
+  "url": "https://raw.githubusercontent.com/sergiobanhos/generate-icons/HEAD/docs/real-example-library.png",
+  "alt": "Real example: a 38-icon duotone library generated for CvPorVaga",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 357449,
+  "file": "sergiobanhos__generate-icons.jpg",
+  "still": "sergiobanhos__generate-icons.jpg"
  },
  "seungdori/web-stylebook-mcp": {
   "repo": "seungdori/web-stylebook-mcp",

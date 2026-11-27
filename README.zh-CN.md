@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-给 **Claude Code、Codex 等编程 agent 用的开源设计 skill 和工具**:UI 与前端美化、设计系统、Figma 与设计工具 MCP、设计稿转代码、海报与品牌图。共 210 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
+给 **Claude Code、Codex 等编程 agent 用的开源设计 skill 和工具**:UI 与前端美化、设计系统、Figma 与设计工具 MCP、设计稿转代码、海报与品牌图。共 213 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/ai-design/](https://agentskillshub.top/best/ai-design/)** · 每 8 小时刷新
 
@@ -29,12 +29,12 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><b>🎨 UI 与前端美化</b><br><sub>104 个仓库</sub><br><br><a href="https://github.com/superdesigndev/superdesign-prompts"><img src="assets/previews/superdesigndev__superdesign-prompts.jpg" width="260" alt="superdesigndev/superdesign-prompts"></a><br><sub>让 agent 生成的界面更有设计感的规则和风格。</sub><br><a href="#type-ui"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>📐 设计系统</b><br><sub>57 个仓库</sub><br><br><a href="https://github.com/feimacode/open-design-agent-kit"><img src="assets/previews/feimacode__open-design-agent-kit.jpg" width="260" alt="feimacode/open-design-agent-kit"></a><br><sub>agent 遵循的设计令牌、主题和组件规范。</sub><br><a href="#type-system"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📐 设计系统</b><br><sub>59 个仓库</sub><br><br><a href="https://github.com/sergiobanhos/generate-icons"><img src="assets/previews/sergiobanhos__generate-icons.jpg" width="260" alt="sergiobanhos/generate-icons"></a><br><sub>agent 遵循的设计令牌、主题和组件规范。</sub><br><a href="#type-system"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🔌 Figma 与设计工具</b><br><sub>17 个仓库</sub><br><br><sub>让 agent 操作 Figma、Penpot、Canva 等设计工具。</sub><br><a href="#type-tool_mcp"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><b>🧱 设计稿转代码</b><br><sub>13 个仓库</sub><br><br><a href="https://github.com/nolangz/pixel2motion"><img src="assets/previews/nolangz__pixel2motion.gif" width="260" alt="nolangz/pixel2motion"></a><br><sub>把设计稿、截图、线框图转成前端代码。</sub><br><a href="#type-to_code"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🖼 海报与品牌</b><br><sub>15 个仓库</sub><br><br><a href="https://github.com/beyondtahir/beyondartist"><img src="assets/previews/beyondtahir__beyondartist.jpg" width="260" alt="beyondtahir/beyondartist"></a><br><sub>海报、社交配图、Logo 和品牌素材。</sub><br><a href="#type-graphics"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🖼 海报与品牌</b><br><sub>16 个仓库</sub><br><br><a href="https://github.com/beyondtahir/beyondartist"><img src="assets/previews/beyondtahir__beyondartist.jpg" width="260" alt="beyondtahir/beyondartist"></a><br><sub>海报、社交配图、Logo 和品牌素材。</sub><br><a href="#type-graphics"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🔍 设计审查</b><br><sub>4 个仓库</sub><br><br><a href="https://github.com/evidence-codes/loom"><img src="assets/previews/evidence-codes__loom.gif" width="260" alt="evidence-codes/loom"></a><br><sub>设计审查:无障碍、一致性、AI 味。</sub><br><a href="#type-review"><b>查看列表 →</b></a></td>
 </tr>
 </table>
@@ -43,10 +43,10 @@
 
 - [🧪 端到端实测](#tested)
 - [🎨 UI 与前端美化](#type-ui) (104)
-- [📐 设计系统](#type-system) (57)
+- [📐 设计系统](#type-system) (59)
 - [🔌 Figma 与设计工具](#type-tool_mcp) (17)
 - [🧱 设计稿转代码](#type-to_code) (13)
-- [🖼 海报与品牌](#type-graphics) (15)
+- [🖼 海报与品牌](#type-graphics) (16)
 - [🔍 设计审查](#type-review) (4)
 
 ## 什么样的仓库能上榜
@@ -97,12 +97,12 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 154.6k | 提供设计智能、用于跨平台构建专业 UI/UX 的 AI skill | [SAFE](https://agentskillshub.top/skill/nextlevelbuilder/ui-ux-pro-max-skill/) |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 121.9k | Taste-Skill：让 AI 具备审美，避免生成无聊、千篇一律的内容 | [SAFE](https://agentskillshub.top/skill/Leonxlnx/taste-skill/) |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 61.5k | 适用于 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计 skill。 | [SAFE](https://agentskillshub.top/skill/Nutlope/hallmark/) |
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 60.0k | 设计师和工程师技能 | [SAFE](https://agentskillshub.top/skill/emilkowalski/skills/) |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 155.0k | 提供设计智能、用于跨平台构建专业 UI/UX 的 AI skill | [SAFE](https://agentskillshub.top/skill/nextlevelbuilder/ui-ux-pro-max-skill/) |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 122.2k | Taste-Skill：让 AI 具备审美，避免生成无聊、千篇一律的内容 | [SAFE](https://agentskillshub.top/skill/Leonxlnx/taste-skill/) |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 62.0k | 适用于 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计 skill。 | [SAFE](https://agentskillshub.top/skill/Nutlope/hallmark/) |
+| [emilkowalski/skills](https://github.com/emilkowalski/skills) | 60.4k | 设计师和工程师技能 | [SAFE](https://agentskillshub.top/skill/emilkowalski/skills/) |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 31.1k | Huashu Design：Claude Code 的 HTML 原生设计 skill，支持原型、幻灯片、动画、5维评审和 MP4 导出 | [SAFE](https://agentskillshub.top/skill/alchaincyf/huashu-design/) |
-| [MengTo/Skills](https://github.com/MengTo/Skills) | 8.4k | 面向使用 Codex、Claude、Cursor 等 AI coding agents 的设计师和开发者的 agent skills | [SAFE](https://agentskillshub.top/skill/MengTo/Skills/) |
+| [MengTo/Skills](https://github.com/MengTo/Skills) | 8.5k | 面向使用 Codex、Claude、Cursor 等 AI coding agents 的设计师和开发者的 agent skills | [SAFE](https://agentskillshub.top/skill/MengTo/Skills/) |
 | [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) | 5.7k | 构建者，而不只是研究者。将高收入应用模式转为原生品质移动界面的 agent skill。 | [SAFE](https://agentskillshub.top/skill/Appllama/appllama-skills/) |
 | [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | 5.5k | 用于构建沉浸式滚动驱动网站的 agent skill，支持 Codex、Claude Code 等编码 agents，也可作为 Claude Code 插件使… | [SAFE](https://agentskillshub.top/skill/nateherkai/scroll-craft/) |
 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | 4.0k | 探索不同方向，并排比较，再根据真实截图优化 AI UI 设计。 | [SAFE](https://agentskillshub.top/skill/oil-oil/oil-ui/) |
@@ -113,53 +113,53 @@
 | [Trystan-SA/product-engineer-skills](https://github.com/Trystan-SA/product-engineer-skills) | 2.1k | Agent skills for product engineers: count the clicks on your happy path, test flows against a UX budget, plan adoption, instrument analytics, and des… | [SAFE](https://agentskillshub.top/skill/Trystan-SA/product-engineer-skills/) |
 | [superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) | 1.1k | 面向 Claude Code、Cursor 和 coding agent 的设计 skill。将 AI 界面转为可发布前端。安装：npx skills add… | [SAFE](https://agentskillshub.top/skill/superdesigndev/superdesign-skill/) |
 | [bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 1.1k | Claude Code、Codex 和 Cursor 的开源设计方法引擎，含 23 个 agent skill，支持固定设计判断、多种语法、语义调色板、参考编… | [SAFE](https://agentskillshub.top/skill/bitjaru/styleseed/) |
-| [INSANE0777/Awwwards-mcp](https://github.com/INSANE0777/Awwwards-mcp) | 959 | 开源 MCP server，为 Claude Code、Codex、Cursor、OpenCode、ZCode 提供网站参考，支持截图搜索和网站记录，免 AP… | [SAFE](https://agentskillshub.top/skill/INSANE0777/Awwwards-mcp/) |
+| [INSANE0777/Awwwards-mcp](https://github.com/INSANE0777/Awwwards-mcp) | 971 | 开源 MCP server，为 Claude Code、Codex、Cursor、OpenCode、ZCode 提供网站参考，支持截图搜索和网站记录，免 AP… | [SAFE](https://agentskillshub.top/skill/INSANE0777/Awwwards-mcp/) |
 | [agiwhitelist/auteur](https://github.com/agiwhitelist/auteur) | 936 | Claude Code skill 以电影制作方式指导网站，涵盖提交清单、生成资源、构建和每次发布前执行的 anti-slop linter。 | [SAFE](https://agentskillshub.top/skill/agiwhitelist/auteur/) |
 | [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) | 912 | Cursor skill 为 AI agent 提供 60+ 界面组件的实践、布局模式和设计系统规范，避免生成通用 UI。 | [SAFE](https://agentskillshub.top/skill/carmahhawwari/ui-design-brain/) |
-| [AThevon/genjutsu](https://github.com/AThevon/genjutsu) | 881 | Claude Code、claude.ai、Cowork 的创意编程 skill，涵盖动效、微交互和设计系统；编码前确认交互方案，反对 AI 套路。 | [SAFE](https://agentskillshub.top/skill/AThevon/genjutsu/) |
-| [xiaopu-ai/web-design](https://github.com/xiaopu-ai/web-design) | 831 | 用于设计美观一致网页的 Claude Code skill——先写规范，再写代码。 | [SAFE](https://agentskillshub.top/skill/xiaopu-ai/web-design/) |
-| [ItsssssJack/power-design](https://github.com/ItsssssJack/power-design) | 818 | Claude 幻灯片 skill，包含 20 条品牌 DNA 设计原则。 | [SAFE](https://agentskillshub.top/skill/ItsssssJack/power-design/) |
+| [AThevon/genjutsu](https://github.com/AThevon/genjutsu) | 890 | Claude Code、claude.ai、Cowork 的创意编程 skill，涵盖动效、微交互和设计系统；编码前确认交互方案，反对 AI 套路。 | [SAFE](https://agentskillshub.top/skill/AThevon/genjutsu/) |
+| [xiaopu-ai/web-design](https://github.com/xiaopu-ai/web-design) | 832 | 用于设计美观一致网页的 Claude Code skill——先写规范，再写代码。 | [SAFE](https://agentskillshub.top/skill/xiaopu-ai/web-design/) |
+| [ItsssssJack/power-design](https://github.com/ItsssssJack/power-design) | 819 | Claude 幻灯片 skill，包含 20 条品牌 DNA 设计原则。 | [SAFE](https://agentskillshub.top/skill/ItsssssJack/power-design/) |
 | [joeseesun/qiaomu-design](https://github.com/joeseesun/qiaomu-design) | 695 | Claude Code设计顾问：反通用UI、风格试衣间、58个真实网站设计系统库 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-design/) |
 | [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory) | 695 | AI-assisted design experiments with documented asset provenance, scoped licensing, and reviewed developer starting points. | [SAFE](https://agentskillshub.top/skill/pulkitxm/claude-directory/) |
-| [codeswithroh/tastemaker](https://github.com/codeswithroh/tastemaker) | 624 | Claude Code skill，基于真实参考图和开发者持久化审美档案生成 UI，避免通用 AI 默认风格。 | [SAFE](https://agentskillshub.top/skill/codeswithroh/tastemaker/) |
-| [julianoczkowski/designer-skills](https://github.com/julianoczkowski/designer-skills) | 616 | 面向使用 AI 编程工具进行原型设计和构建的设计师的 agent skill 集合，编码设计流程，让 AI 遵循结构化路径而非随机输出。 | [SAFE](https://agentskillshub.top/skill/julianoczkowski/designer-skills/) |
-| [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) | 603 | Claude Code 的专业移动应用 UI/UX 设计 skill | [SAFE](https://agentskillshub.top/skill/ceorkm/mobile-app-ui-design/) |
-| [senlindesign/taste-skill](https://github.com/senlindesign/taste-skill) | 523 | Claude Code skill——逆向拆解任意网站的设计风格：具体设计令牌与明确取舍（解释 WHY，而非只说 WHAT） | [SAFE](https://agentskillshub.top/skill/senlindesign/taste-skill/) |
-| [educlopez/ui-craft](https://github.com/educlopez/ui-craft) | 484 | 面向 AI 编程 agent 的设计工程系统——以精工级质量交付 UI。安装为 agent skill。 | [SAFE](https://agentskillshub.top/skill/educlopez/ui-craft/) |
+| [codeswithroh/tastemaker](https://github.com/codeswithroh/tastemaker) | 629 | Claude Code skill，基于真实参考图和开发者持久化审美档案生成 UI，避免通用 AI 默认风格。 | [SAFE](https://agentskillshub.top/skill/codeswithroh/tastemaker/) |
+| [julianoczkowski/designer-skills](https://github.com/julianoczkowski/designer-skills) | 617 | 面向使用 AI 编程工具进行原型设计和构建的设计师的 agent skill 集合，编码设计流程，让 AI 遵循结构化路径而非随机输出。 | [SAFE](https://agentskillshub.top/skill/julianoczkowski/designer-skills/) |
+| [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) | 607 | Claude Code 的专业移动应用 UI/UX 设计 skill | [SAFE](https://agentskillshub.top/skill/ceorkm/mobile-app-ui-design/) |
+| [senlindesign/taste-skill](https://github.com/senlindesign/taste-skill) | 525 | Claude Code skill——逆向拆解任意网站的设计风格：具体设计令牌与明确取舍（解释 WHY，而非只说 WHAT） | [SAFE](https://agentskillshub.top/skill/senlindesign/taste-skill/) |
+| [educlopez/ui-craft](https://github.com/educlopez/ui-craft) | 486 | 面向 AI 编程 agent 的设计工程系统——以精工级质量交付 UI。安装为 agent skill。 | [SAFE](https://agentskillshub.top/skill/educlopez/ui-craft/) |
 | [geekjourneyx/claude-design-card](https://github.com/geekjourneyx/claude-design-card) | 477 | 用于生成 14 种格式设计卡片的 Claude Code skill，涵盖平台封面、社交分享卡和编辑排版，遵循 Anthropic | [SAFE](https://agentskillshub.top/skill/geekjourneyx/claude-design-card/) |
 | [vmc-inner-circle/k-style-ui-ux](https://github.com/vmc-inner-circle/k-style-ui-ux) | 418 | 用一页 PRD 在约15分钟生成韩国应用风格移动端界面草稿的 Claude Code·Codex 插件 | [SAFE](https://agentskillshub.top/skill/vmc-inner-circle/k-style-ui-ux/) |
-| [tenfoldmarc/website-builder-setup](https://github.com/tenfoldmarc/website-builder-setup) | 396 | 用 Claude Code 无需编程构建动画网站：一次安装包含 UI/UX Pro Max、Framer Motion 和 21st.dev。 | [SAFE](https://agentskillshub.top/skill/tenfoldmarc/website-builder-setup/) |
-| [referodesign/refero_skill](https://github.com/referodesign/refero_skill) | 364 | 面向 AI agents 的研究优先设计 skill，通过 Refero MCP 获取真实应用界面和流程。 | [SAFE](https://agentskillshub.top/skill/referodesign/refero_skill/) |
+| [tenfoldmarc/website-builder-setup](https://github.com/tenfoldmarc/website-builder-setup) | 397 | 用 Claude Code 无需编程构建动画网站：一次安装包含 UI/UX Pro Max、Framer Motion 和 21st.dev。 | [SAFE](https://agentskillshub.top/skill/tenfoldmarc/website-builder-setup/) |
+| [referodesign/refero_skill](https://github.com/referodesign/refero_skill) | 368 | 面向 AI agents 的研究优先设计 skill，通过 Refero MCP 获取真实应用界面和流程。 | [SAFE](https://agentskillshub.top/skill/referodesign/refero_skill/) |
 | [Adityaraj0421/naksha-studio](https://github.com/Adityaraj0421/naksha-studio) | 358 | 适用于 Claude Code、Cursor、Windsurf、Gemini CLI 和 Copilot 的虚拟设计团队，含26种角色、62个命令和设计知识。 | [SAFE](https://agentskillshub.top/skill/Adityaraj0421/naksha-studio/) |
 | [hylarucoder/benchmark-skill-ui-ux-pro-max](https://github.com/hylarucoder/benchmark-skill-ui-ux-pro-max) | 325 | 使用 Claude Code SDK 和 GLM 4.7，通过 ui-ux-pro-max Skill 自动生成100个落地页的基准测试项目 | [SAFE](https://agentskillshub.top/skill/hylarucoder/benchmark-skill-ui-ux-pro-max/) |
-| [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | 290 | AI 编码代理界面的设计规则和零依赖检查器，支持英语和土耳其语。 | [SAFE](https://agentskillshub.top/skill/enmerasoftware/ai-design-check/) |
-| [dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills) | 238 | 高级 UX 与设计系统知识，让 AI agent 自动应用。 | [SAFE](https://agentskillshub.top/skill/dembrandt/dembrandt-skills/) |
+| [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | 291 | AI 编码代理界面的设计规则和零依赖检查器，支持英语和土耳其语。 | [SAFE](https://agentskillshub.top/skill/enmerasoftware/ai-design-check/) |
+| [dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills) | 240 | 高级 UX 与设计系统知识，让 AI agent 自动应用。 | [SAFE](https://agentskillshub.top/skill/dembrandt/dembrandt-skills/) |
 | [axiaoge2/Apple-Hig-Designer](https://github.com/axiaoge2/Apple-Hig-Designer) | 235 | 遵循 Apple Human Interface Guidelines 设计专业界面的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/axiaoge2/Apple-Hig-Designer/) |
 | [originaleric/dig-ui-skill](https://github.com/originaleric/dig-ui-skill) | 230 | Dig 构建的供 agent 使用的 prompt-as-code 设计系统，适用于 Codex、Cursor 和 Claude Code，含目录、布局、区块… | [SAFE](https://agentskillshub.top/skill/originaleric/dig-ui-skill/) |
 | [jiji262/claude-design-skill](https://github.com/jiji262/claude-design-skill) | 226 | 可移植的 Claude skill，将 Claude 变成 HTML 产物设计专家，支持演示文稿、落地页、原型、动画和海报。改编自 Claude.ai 内部设… | [SAFE](https://agentskillshub.top/skill/jiji262/claude-design-skill/) |
 | [Nutlope/variate](https://github.com/Nutlope/variate) | 224 | 生成组件四种设计变体的紧凑型设计 skill，适用于 Claude Code、Codex CLI 和 opencode。 | [SAFE](https://agentskillshub.top/skill/Nutlope/variate/) |
-| [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) | 217 | SwiftUI 前端设计 skill：6条规范、设计咨询、品牌资产指南和五维评审，支持 Claude Code、Cursor、Codex、OpenCode 等… | [SAFE](https://agentskillshub.top/skill/Wholiver/swiftui-design-skill/) |
 | [3x-haust/oh-my-design](https://github.com/3x-haust/oh-my-design) | 215 | 为 Codex、Claude Code 和兼容 Pi 的 agent 设计认知循环：构框、发散、观察、重构 | [SAFE](https://agentskillshub.top/skill/3x-haust/oh-my-design/) |
-| [ganavisk/nextlevelbuilder-ui-ux-pro-max-skill-Public](https://github.com/ganavisk/nextlevelbuilder-ui-ux-pro-max-skill-Public) | 203 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms | [SAFE](https://agentskillshub.top/skill/ganavisk/nextlevelbuilder-ui-ux-pro-max-skill-Public/) |
+| [Wholiver/swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) | 215 | SwiftUI 前端设计 skill：6条规范、设计咨询、品牌资产指南和五维评审，支持 Claude Code、Cursor、Codex、OpenCode 等… | [SAFE](https://agentskillshub.top/skill/Wholiver/swiftui-design-skill/) |
+| [ganavisk/nextlevelbuilder-ui-ux-pro-max-skill-Public](https://github.com/ganavisk/nextlevelbuilder-ui-ux-pro-max-skill-Public) | 204 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms | [SAFE](https://agentskillshub.top/skill/ganavisk/nextlevelbuilder-ui-ux-pro-max-skill-Public/) |
+| [touchine-ojo/OJO-Design-Skills](https://github.com/touchine-ojo/OJO-Design-Skills) | 200 | 适用于 Codex、Claude Code、ZCode 等 AI coding agent 的可复用 UI/UX 设计 skill | [SAFE](https://agentskillshub.top/skill/touchine-ojo/OJO-Design-Skills/) |
 | [yzfly/awesome-design-html](https://github.com/yzfly/awesome-design-html) | 199 | 115个品牌主题HTML设计，作为Claude Code skill（93网页+22个iOS，含20个中国展示）。一行安装，再说：“Linear风页面”“飞书… | [SAFE](https://agentskillshub.top/skill/yzfly/awesome-design-html/) |
-| [touchine-ojo/OJO-Design-Skills](https://github.com/touchine-ojo/OJO-Design-Skills) | 198 | 适用于 Codex、Claude Code、ZCode 等 AI coding agent 的可复用 UI/UX 设计 skill | [SAFE](https://agentskillshub.top/skill/touchine-ojo/OJO-Design-Skills/) |
-| [Ilm-Alan/frontend-design](https://github.com/Ilm-Alan/frontend-design) | 192 | 适用于 Claude Code、Codex 和 Gemini CLI 的前端设计 skill。八种美学锚点，分别对应特定 CSS token。每次需求选一种。 | [SAFE](https://agentskillshub.top/skill/Ilm-Alan/frontend-design/) |
+| [Ilm-Alan/frontend-design](https://github.com/Ilm-Alan/frontend-design) | 195 | 适用于 Claude Code、Codex 和 Gemini CLI 的前端设计 skill。八种美学锚点，分别对应特定 CSS token。每次需求选一种。 | [SAFE](https://agentskillshub.top/skill/Ilm-Alan/frontend-design/) |
 | [zeke/swiss-design-skill](https://github.com/zeke/swiss-design-skill) | 164 | 面向 AI agent 的瑞士国际主义风格设计系统 skill | [SAFE](https://agentskillshub.top/skill/zeke/swiss-design-skill/) |
 | [robonuggets/design-system](https://github.com/robonuggets/design-system) | 158 | 提供品牌参考，生成完整设计系统页面和一页 A4 品牌手册 PDF。 | [SAFE](https://agentskillshub.top/skill/robonuggets/design-system/) |
 | [TheGoat395/Codex-Skills](https://github.com/TheGoat395/Codex-Skills) | 140 | Codex 优先的 Agent Skills 库，涵盖前端、网站、动效、无障碍、QA 和交付流程。 | [SAFE](https://agentskillshub.top/skill/TheGoat395/Codex-Skills/) |
-| [albertirgi/replica](https://github.com/albertirgi/replica) | 132 | 根据参考重建 UI 并评分验证。Claude Code 等 coding agents 的 Agent Skill：捕获网站、截图或录屏，按布局、样式、像素和… | [SAFE](https://agentskillshub.top/skill/albertirgi/replica/) |
-| [HermeticOrmus/LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) | 127 | Claude Code 的 UI/UX 系统：71 个插件、93 个 agent、74 个 skill，涵盖设计、无障碍和前端工作流。 | [SAFE](https://agentskillshub.top/skill/HermeticOrmus/LibreUIUX-Claude-Code/) |
-| [Ilbie/Toss-Design-Skill](https://github.com/Ilbie/Toss-Design-Skill) | 124 | 参考 Toss Tech Design 文章制作的非官方 skill。 | [SAFE](https://agentskillshub.top/skill/Ilbie/Toss-Design-Skill/) |
+| [albertirgi/replica](https://github.com/albertirgi/replica) | 136 | 根据参考重建 UI 并评分验证。Claude Code 等 coding agents 的 Agent Skill：捕获网站、截图或录屏，按布局、样式、像素和… | [SAFE](https://agentskillshub.top/skill/albertirgi/replica/) |
+| [HermeticOrmus/LibreUIUX-Claude-Code](https://github.com/HermeticOrmus/LibreUIUX-Claude-Code) | 128 | Claude Code 的 UI/UX 系统：71 个插件、93 个 agent、74 个 skill，涵盖设计、无障碍和前端工作流。 | [SAFE](https://agentskillshub.top/skill/HermeticOrmus/LibreUIUX-Claude-Code/) |
+| [Ilbie/Toss-Design-Skill](https://github.com/Ilbie/Toss-Design-Skill) | 125 | 参考 Toss Tech Design 文章制作的非官方 skill。 | [SAFE](https://agentskillshub.top/skill/Ilbie/Toss-Design-Skill/) |
+| [cth9191/taste-vault](https://github.com/cth9191/taste-vault) | 122 | 本地设计风格图库：输入截图，输出设计词汇和可粘贴的 Claude Code 简报。网页设计三步流程第 1 步。 | [SAFE](https://agentskillshub.top/skill/cth9191/taste-vault/) |
 | [TidyFactor/Styler](https://github.com/TidyFactor/Styler) | 121 | Production-Stage Visual Design & In-Codebase UI Engineering Suite | [SAFE](https://agentskillshub.top/skill/TidyFactor/Styler/) |
-| [cth9191/taste-vault](https://github.com/cth9191/taste-vault) | 121 | 本地设计风格图库：输入截图，输出设计词汇和可粘贴的 Claude Code 简报。网页设计三步流程第 1 步。 | [SAFE](https://agentskillshub.top/skill/cth9191/taste-vault/) |
 | [MickeyAlton33/web-designer-plugin](https://github.com/MickeyAlton33/web-designer-plugin) | 119 | 网页设计 skill，适用于 Claude Code。来自 38 个网站的 48 种模式，避免生成通用 AI 前端。 | [SAFE](https://agentskillshub.top/skill/MickeyAlton33/web-designer-plugin/) |
 | [ohmiler/gridgeist](https://github.com/ohmiler/gridgeist) | 119 | Gridgeist 将产品意图转化为严谨的视觉系统，避免千篇一律的 AI SaaS 风格。 | [SAFE](https://agentskillshub.top/skill/ohmiler/gridgeist/) |
 | [SpaceZephyr/brand-design-md](https://github.com/SpaceZephyr/brand-design-md) | 117 | 为 AI agent 按需提供62个品牌设计语言的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/SpaceZephyr/brand-design-md/) |
 | [Laith0003/ux-skill](https://github.com/Laith0003/ux-skill) | 112 | Claude Code、Cursor、Windsurf 设计引擎：确定性反 AI-slop 检查器（152 条规则）；离线运行，不调用 LLM，MIT。 | [SAFE](https://agentskillshub.top/skill/Laith0003/ux-skill/) |
 | [saifyxpro/ui-ux-design-pro-skill](https://github.com/saifyxpro/ui-ux-design-pro-skill) | 111 | AI配对、150+推理规则、CLI、18个平台模板；支持Claude、Cursor等；107种风格、127套配色、107种字体 | [SAFE](https://agentskillshub.top/skill/saifyxpro/ui-ux-design-pro-skill/) |
+| [h3nryprod01/design-taste](https://github.com/h3nryprod01/design-taste) | 109 | Claude Code / Cowork 的前端设计规范，涵盖字体、配色、动效、组件与反套路。 | [SAFE](https://agentskillshub.top/skill/h3nryprod01/design-taste/) |
 | [ihlamury/design-skills](https://github.com/ihlamury/design-skills) | 108 | 从设计系统提取的 UI 约束，用于配合 AI agent 构建像素级界面。 | [SAFE](https://agentskillshub.top/skill/ihlamury/design-skills/) |
 | [yizhiyanhua-ai/fireworks-design](https://github.com/yizhiyanhua-ai/fireworks-design) | 108 | Claude Code 工作流：复现 ClaudeDesign，支持并行设计探索、面板评审、综合与对抗式优化，生成单个前端页面；双语 README | [SAFE](https://agentskillshub.top/skill/yizhiyanhua-ai/fireworks-design/) |
-| [h3nryprod01/design-taste](https://github.com/h3nryprod01/design-taste) | 107 | Claude Code / Cowork 的前端设计规范，涵盖字体、配色、动效、组件与反套路。 | [SAFE](https://agentskillshub.top/skill/h3nryprod01/design-taste/) |
 | [MaxHan7/frontend-ui-standards-skill](https://github.com/MaxHan7/frontend-ui-standards-skill) | 105 | 设计系统优先的前端 UI 实现 Codex skill | [SAFE](https://agentskillshub.top/skill/MaxHan7/frontend-ui-standards-skill/) |
 | [szilu/ux-designer-skill](https://github.com/szilu/ux-designer-skill) | 101 | 基于现代最佳实践（2026）的 UX/UI 设计指导 Claude Code skill | [SAFE](https://agentskillshub.top/skill/szilu/ux-designer-skill/) |
 | [awesome-skills/mobile-app-design](https://github.com/awesome-skills/mobile-app-design) | 94 | Claude Code 移动应用 UI/UX 设计 skill：iOS、Android、无障碍和 React Native 最佳实践 | [SAFE](https://agentskillshub.top/skill/awesome-skills/mobile-app-design/) |
@@ -179,9 +179,9 @@
 | [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) | 38 | 5万多个独特 HTML 演示设计。零依赖。拒绝 AI 垃圾风。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/nghiahsgs/skills-slides/) |
 | [jakob-meyer/unaverage](https://github.com/jakob-meyer/unaverage) | 33 | Claude、Claude Code、Codex 设计 skill：网站、UI、演示稿、社媒、广告、品牌；先了解背景，展示排序样稿，再衡量并审查成果。 | [SAFE](https://agentskillshub.top/skill/jakob-meyer/unaverage/) |
 | [regutierrez/ui-ux-skill](https://github.com/regutierrez/ui-ux-skill) | 31 | UI-UX skill，基于 ui-ux-pro-max-skill 分支，用 Python 重写 | [CAUTION](https://agentskillshub.top/skill/regutierrez/ui-ux-skill/) |
+| [SandroHub013/awwwards-skill](https://github.com/SandroHub013/awwwards-skill) | 30 | Awwwards是评分体系，不是风格；Claude Code skill将设计40/易用30/创意20/内容10编为8阶段构建法，含18个参考、模板和可运行的… | [SAFE](https://agentskillshub.top/skill/SandroHub013/awwwards-skill/) |
 | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) | 30 | Claude Code、Cowork 和 Cursor 的设计风格。Prom 是泰语“准备好”的意思。免费学习：loop.sv-academy.org | [SAFE](https://agentskillshub.top/skill/sva-admin/sv-academy-prom-design/) |
 | [diegomarino/tui-design](https://github.com/diegomarino/tui-design) | 27 | 用于设计、模拟、构建和审计终端 UI 的 agent skill | [SAFE](https://agentskillshub.top/skill/diegomarino/tui-design/) |
-| [SandroHub013/awwwards-skill](https://github.com/SandroHub013/awwwards-skill) | 26 | Awwwards是评分体系，不是风格；Claude Code skill将设计40/易用30/创意20/内容10编为8阶段构建法，含18个参考、模板和可运行的… | [SAFE](https://agentskillshub.top/skill/SandroHub013/awwwards-skill/) |
 | [Nyx-abu/awwwards-ui-skill](https://github.com/Nyx-abu/awwwards-ui-skill) | 22 | 提升 AI 生成 UI 设计质量的 skill，教 Claude Code、Codex、Antigravity 构建涵盖动效、排版、色彩和 WCAG AA 的… | [SAFE](https://agentskillshub.top/skill/Nyx-abu/awwwards-ui-skill/) |
 | [jmlweb/storybook-vrhythm](https://github.com/jmlweb/storybook-vrhythm) | 22 | 供 coding agents 运行的 Storybook 基准网格：精确像素差审计与可视化叠加层 | [SAFE](https://agentskillshub.top/skill/jmlweb/storybook-vrhythm/) |
 | [senlindesign/proof](https://github.com/senlindesign/proof) | 22 | Proof：Claude Code & Codex 的产品设计 skill，基于400+个真实产品页面，含8种页面类型、10个区块和4种风格，支持浅色与深色。 | [SAFE](https://agentskillshub.top/skill/senlindesign/proof/) |
@@ -190,12 +190,12 @@
 | [marcosnovo/unslop-design](https://github.com/marcosnovo/unslop-design) | 16 | Claude Code等 agent skill：64项设计修复、UI评分脚本和你确认的前后对比。 | [SAFE](https://agentskillshub.top/skill/marcosnovo/unslop-design/) |
 | [justskill-ai/justskill-design](https://github.com/justskill-ai/justskill-design) | 15 | 用 coding agent 进行设计——这是 skill，不是产品：无需 MCP server、应用、账号、构建步骤或 npm install。 | [SAFE](https://agentskillshub.top/skill/justskill-ai/justskill-design/) |
 | [LaoFeng-mouse/fantasy-mouse-ui](https://github.com/LaoFeng-mouse/fantasy-mouse-ui) | 12 | 适用于 Codex、Claude、Gemini、DeepSeek 和通用 Agents 的模型无关 Fantasy Mouse UI 设计插件 | [SAFE](https://agentskillshub.top/skill/LaoFeng-mouse/fantasy-mouse-ui/) |
+| [joepUI/motion-ref-skill](https://github.com/joepUI/motion-ref-skill) | 11 | UI 动效设计 skill，含13类111种效果；按场景生成CSS/JS代码，支持 Claude Code、Codex、OpenClaw。 | [SAFE](https://agentskillshub.top/skill/joepUI/motion-ref-skill/) |
 | [sshahzaiib/senior-designer-skill](https://github.com/sshahzaiib/senior-designer-skill) | 11 | Claude Code 高级产品设计 skill：基于158份审核资料，构建研究驱动、无障碍且不千篇一律的UI，附质量评分清单。 | [SAFE](https://agentskillshub.top/skill/sshahzaiib/senior-designer-skill/) |
 | [ajantoniou/fable-design-system](https://github.com/ajantoniou/fable-design-system) | 10 | Fable 风格设计系统，适用于 AI coding agent、Claude、Opus 4.8、Codex、Cursor、Gemini、Antigravit… | [CAUTION](https://agentskillshub.top/skill/ajantoniou/fable-design-system/) |
 | [linkonai2026-kr/design-on](https://github.com/linkonai2026-kr/design-on) | 10 | 一句话出网页；4制3审，检59种反模式；Impeccable、tasteskill、UI Skills、emil-skill；Claude Code/Code… | [SAFE](https://agentskillshub.top/skill/linkonai2026-kr/design-on/) |
 | [ABC-xiaoxuan/award-level-web-design](https://github.com/ABC-xiaoxuan/award-level-web-design) | 9 | Agent skill：按 Awwwards/Webby/FWA 标准设计网页，通过 8 维截图自审循环改进（Claude Code、Codex、Cursor） | [SAFE](https://agentskillshub.top/skill/ABC-xiaoxuan/award-level-web-design/) |
 | [alwkala/Cinematic-Landing-Kit](https://github.com/alwkala/Cinematic-Landing-Kit) | 9 | 基于 context-and-memory package 的记忆驱动设计系统，指导任意 AI coding agent 生成滚动驱动的产品落地页。单个 HT… | [SAFE](https://agentskillshub.top/skill/alwkala/Cinematic-Landing-Kit/) |
-| [joepUI/motion-ref-skill](https://github.com/joepUI/motion-ref-skill) | 9 | UI 动效设计 skill，含13类111种效果；按场景生成CSS/JS代码，支持 Claude Code、Codex、OpenClaw。 | [SAFE](https://agentskillshub.top/skill/joepUI/motion-ref-skill/) |
 | [SuanFishXYY/suanfish-design-system](https://github.com/SuanFishXYY/suanfish-design-system) | 8 | Suanfish Design System：7层33个AI设计agent，含REJECT机制；v2.5新增Path G（流式、工具调用、推理、引用、工件）。 | [SAFE](https://agentskillshub.top/skill/SuanFishXYY/suanfish-design-system/) |
 | [yckonnnnn/zack-design-skills](https://github.com/yckonnnnn/zack-design-skills) | 8 | 8个设计技能+60条可执行判断标准，减少网页的AI感。支持Claude Code、Cursor、Codex。 | [SAFE](https://agentskillshub.top/skill/yckonnnnn/zack-design-skills/) |
 | [nabinkhair42/structural-grid-skill](https://github.com/nabinkhair42/structural-grid-skill) | 5 | 面向 AI coding agent 的 Structural Grid（Exposed Grid / Rail Layout）设计系统 skill。 | [SAFE](https://agentskillshub.top/skill/nabinkhair42/structural-grid-skill/) |
@@ -208,43 +208,44 @@
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/ai-design/#type-system)
 
 <table><tr>
+<td align="center" valign="top"><a href="https://github.com/feimacode/open-design-agent-kit"><img src="assets/previews/feimacode__open-design-agent-kit.jpg" width="260" alt="feimacode/open-design-agent-kit"></a><br><sub><a href="https://github.com/feimacode/open-design-agent-kit">feimacode/open-design-agent-kit</a></sub></td>
 <td align="center" valign="top"><a href="https://github.com/arla6ka/design.how"><img src="assets/previews/arla6ka__design.how.jpg" width="260" alt="arla6ka/design.how"></a><br><sub><a href="https://github.com/arla6ka/design.how">arla6ka/design.how</a></sub></td>
 <td align="center" valign="top"><a href="https://github.com/ckryptickunal/OpenDesigner"><img src="assets/previews/ckryptickunal__OpenDesigner.jpg" width="260" alt="ckryptickunal/OpenDesigner"></a><br><sub><a href="https://github.com/ckryptickunal/OpenDesigner">ckryptickunal/OpenDesigner</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/byadityaraj/designmd"><img src="assets/previews/byadityaraj__designmd.jpg" width="260" alt="byadityaraj/designmd"></a><br><sub><a href="https://github.com/byadityaraj/designmd">byadityaraj/designmd</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109.7k | Claude Code、Codex、Cursor、DeepSeek Harness、OpenCode 的本地设计应用，支持生成与导出 HTML/PDF/PPT… | [SAFE](https://agentskillshub.top/skill/nexu-io/open-design/) |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 109.8k | Claude Code、Codex、Cursor、DeepSeek Harness、OpenCode 的本地设计应用，支持生成与导出 HTML/PDF/PPT… | [SAFE](https://agentskillshub.top/skill/nexu-io/open-design/) |
 | [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | 5.2k | 一条命令提取网站设计系统：DTCG tokens、MCP server、多平台输出、Tailwind v4、Figma variables、shadcn/ui… | [SAFE](https://agentskillshub.top/skill/Manavarya09/design-extract/) |
 | [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) | 3.2k | Design-system skills for Claude Code, Codex, Cursor, Copilot and Gemini CLI: DTCG tokens, WCAG 2.2 AA to AAA, 2,144 design systems, 26 skills, any-fr… | [SAFE](https://agentskillshub.top/skill/plugin87/ux-ui-agent-skills/) |
 | [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) | 3.2k | 基于 TypeUI 的 Chrome 扩展，可提取网站样式并为 AI 生成 DESIGN.md 文件和设计 skill | [SAFE](https://agentskillshub.top/skill/bergside/design-md-chrome/) |
 | [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit) | 1.2k | 在 Copilot、Claude、Codex、Cursor 中制作海报、社交帖子、幻灯片和落地页，提供 198 套设计系统、检查及 PDF/PNG/Power… | [SAFE](https://agentskillshub.top/skill/feimacode/open-design-agent-kit/) |
 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | 1.1k | 归藏设计·DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味 skill；设计系统、作品库、内容工作流、语气档案 | [SAFE](https://agentskillshub.top/skill/op7418/dsh-guizang-design/) |
-| [dominikmartn/hue](https://github.com/dominikmartn/hue) | 963 | 开源 skill，可学习任意品牌并生成完整设计系统。支持 Claude Code 和 Codex。助手构建的 UI 均符合品牌。 | [SAFE](https://agentskillshub.top/skill/dominikmartn/hue/) |
-| [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 906 | 开源 AI 生成 UI 视觉风格库：148 套风格，包含 design tokens、prompts、MCP、Agent Skill 和 npm CLI。 | [SAFE](https://agentskillshub.top/skill/AnxForever/stylekit/) |
-| [arla6ka/design.how](https://github.com/arla6ka/design.how) | 636 | design.how 的 agent skill 与设计系统：从应用构建设计系统，用 agent 发布 UI，并在 CI 中强制执行。 | [SAFE](https://agentskillshub.top/skill/arla6ka/design.how/) |
+| [dominikmartn/hue](https://github.com/dominikmartn/hue) | 966 | 开源 skill，可学习任意品牌并生成完整设计系统。支持 Claude Code 和 Codex。助手构建的 UI 均符合品牌。 | [SAFE](https://agentskillshub.top/skill/dominikmartn/hue/) |
+| [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 914 | 开源 AI 生成 UI 视觉风格库：148 套风格，包含 design tokens、prompts、MCP、Agent Skill 和 npm CLI。 | [SAFE](https://agentskillshub.top/skill/AnxForever/stylekit/) |
+| [arla6ka/design.how](https://github.com/arla6ka/design.how) | 638 | design.how 的 agent skill 与设计系统：从应用构建设计系统，用 agent 发布 UI，并在 CI 中强制执行。 | [SAFE](https://agentskillshub.top/skill/arla6ka/design.how/) |
 | [Railly/tinte](https://github.com/Railly/tinte) | 635 | 将设计系统编译为 Agent Plugin，提取视觉身份，生成 SKILL.md 与 tokens.css，检查绕过 tokens 的内容。 | [SAFE](https://agentskillshub.top/skill/Railly/tinte/) |
-| [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) | 634 | 为 AI coding agent 提供设计系统：一条命令将公司 DESIGN.md 参考和 skill 安装到 Claude Code、Codex、Curs… | [SAFE](https://agentskillshub.top/skill/kwakseongjae/oh-my-design/) |
-| [marvkr/better-design](https://github.com/marvkr/better-design) | 606 | 开源 MCP server 与 shadcn/ui registry：含31个主题、设计令牌、UI原则和WCAG规则，支持 Claude Code、Curso… | [SAFE](https://agentskillshub.top/skill/marvkr/better-design/) |
-| [diego3g/craft](https://github.com/diego3g/craft) | 495 | AI agent 的设计 skill：/craft-setup 编写设计简报，/craft 根据设计系统设计并审查包含所有状态的界面。支持 Paper、Fig… | [SAFE](https://agentskillshub.top/skill/diego3g/craft/) |
-| [guiguiyan930-source/game-ui-design-workflow](https://github.com/guiguiyan930-source/game-ui-design-workflow) | 483 | 面向游戏 UI 设计的 Cursor Agent Skills 工作流，涵盖原型生成、风格切换、页面延展和组件拆解，通过 Spec-Kit 文档、视觉契约与资… | [SAFE](https://agentskillshub.top/skill/guiguiyan930-source/game-ui-design-workflow/) |
-| [skydashnet/material-design-3-ui-skill](https://github.com/skydashnet/material-design-3-ui-skill) | 438 | 用于使用 Google Material Design 3、Material You、M3 Expressive、无障碍、适配布局和语义化设计令牌设计、评审与… | [SAFE](https://agentskillshub.top/skill/skydashnet/material-design-3-ui-skill/) |
-| [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system) | 320 | 从公开网站提取设计令牌（颜色、字体、间距、圆角、阴影），生成 JSON 和 CSS 自定义属性，可作为 Claude、Cursor、Codex 的 agent… | [SAFE](https://agentskillshub.top/skill/arvindrk/extract-design-system/) |
+| [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) | 635 | 为 AI coding agent 提供设计系统：一条命令将公司 DESIGN.md 参考和 skill 安装到 Claude Code、Codex、Curs… | [SAFE](https://agentskillshub.top/skill/kwakseongjae/oh-my-design/) |
+| [marvkr/better-design](https://github.com/marvkr/better-design) | 608 | 开源 MCP server 与 shadcn/ui registry：含31个主题、设计令牌、UI原则和WCAG规则，支持 Claude Code、Curso… | [SAFE](https://agentskillshub.top/skill/marvkr/better-design/) |
+| [diego3g/craft](https://github.com/diego3g/craft) | 520 | AI agent 的设计 skill：/craft-setup 编写设计简报，/craft 根据设计系统设计并审查包含所有状态的界面。支持 Paper、Fig… | [SAFE](https://agentskillshub.top/skill/diego3g/craft/) |
+| [guiguiyan930-source/game-ui-design-workflow](https://github.com/guiguiyan930-source/game-ui-design-workflow) | 488 | 面向游戏 UI 设计的 Cursor Agent Skills 工作流，涵盖原型生成、风格切换、页面延展和组件拆解，通过 Spec-Kit 文档、视觉契约与资… | [SAFE](https://agentskillshub.top/skill/guiguiyan930-source/game-ui-design-workflow/) |
+| [skydashnet/material-design-3-ui-skill](https://github.com/skydashnet/material-design-3-ui-skill) | 444 | 用于使用 Google Material Design 3、Material You、M3 Expressive、无障碍、适配布局和语义化设计令牌设计、评审与… | [SAFE](https://agentskillshub.top/skill/skydashnet/material-design-3-ui-skill/) |
+| [arvindrk/extract-design-system](https://github.com/arvindrk/extract-design-system) | 331 | 从公开网站提取设计令牌（颜色、字体、间距、圆角、阴影），生成 JSON 和 CSS 自定义属性，可作为 Claude、Cursor、Codex 的 agent… | [SAFE](https://agentskillshub.top/skill/arvindrk/extract-design-system/) |
 | [oalanicolas/claude-design-premium](https://github.com/oalanicolas/claude-design-premium) | 280 | Claude Design 设计系统入门套件 | [SAFE](https://agentskillshub.top/skill/oalanicolas/claude-design-premium/) |
 | [uxKero/anydesign](https://github.com/uxKero/anydesign) | 253 | 分析图像、网站和 Figma 文件，生成包含令牌系统、组件清单和重建说明的结构化 design.md 的 Claude skill | [SAFE](https://agentskillshub.top/skill/uxKero/anydesign/) |
 | [redongreen/uSpec](https://github.com/redongreen/uSpec) | 252 | 由 AI agent 直接生成 UI 组件设计系统文档，可渲染到 Figma 或 .md 文件，支持 Cursor、Claude Code 和 Codex。 | [SAFE](https://agentskillshub.top/skill/redongreen/uSpec/) |
 | [southleft/story-ui](https://github.com/southleft/story-ui) | 245 | AI 驱动的 Storybook story 生成器，支持任意框架、设计系统和 LLM 提供商 | [SAFE](https://agentskillshub.top/skill/southleft/story-ui/) |
-| [ckryptickunal/OpenDesigner](https://github.com/ckryptickunal/OpenDesigner) | 214 | 面向 Claude、ChatGPT、Codex 和 Cursor 的开源插件，将简短回答转化为设计系统，使构建内容保持统一。 | [SAFE](https://agentskillshub.top/skill/ckryptickunal/OpenDesigner/) |
+| [ckryptickunal/OpenDesigner](https://github.com/ckryptickunal/OpenDesigner) | 217 | 面向 Claude、ChatGPT、Codex 和 Cursor 的开源插件，将简短回答转化为设计系统，使构建内容保持统一。 | [SAFE](https://agentskillshub.top/skill/ckryptickunal/OpenDesigner/) |
 | [senlindesign/claude2figma](https://github.com/senlindesign/claude2figma) | 210 | Claude Code + Figma 的约束层：4 个 skill 让 AI 遵循你的 Design System。组件保持关联，tokens 保持绑定，不… | [SAFE](https://agentskillshub.top/skill/senlindesign/claude2figma/) |
 | [tsubotax/melta-ui](https://github.com/tsubotax/melta-ui) | 203 | 人类和 AI 都能读懂的设计系统，适用于 Claude Code 和 Cursor | [SAFE](https://agentskillshub.top/skill/tsubotax/melta-ui/) |
 | [jamesrochabrun/Easel](https://github.com/jamesrochabrun/Easel) | 172 | Easel 是 Codex 和 Claude 的 macOS 工作区，支持 AI 产品设计与前端迭代，集成本地项目库、设计系统、Codex 对话、网页预览检查… | [SAFE](https://agentskillshub.top/skill/jamesrochabrun/Easel/) |
+| [sergiobanhos/generate-icons](https://github.com/sergiobanhos/generate-icons) | 166 | 根据设计系统绘制 React、Vue、Svelte、React Native 和 SVG 图标库的 Agent skill。 | [*待评级*](https://agentskillshub.top/skill/sergiobanhos/generate-icons/) |
 | [bergside/design-md-figma](https://github.com/bergside/design-md-figma) | 160 | Figma 插件，提取本地样式规范并生成 DESIGN.md 和 SKILL.md，供 Claude Code、Codex、Cursor 等 AI 工具使用 | [SAFE](https://agentskillshub.top/skill/bergside/design-md-figma/) |
+| [Devesh-Shirsath/spotkit](https://github.com/Devesh-Shirsath/spotkit) | 152 | Spotkit：Claude Code skill，将功能描述转为统一设计系统中的极简抽象 SVG 产品插图。 | [SAFE](https://agentskillshub.top/skill/Devesh-Shirsath/spotkit/) |
 | [luongnv89/sleek-ui](https://github.com/luongnv89/sleek-ui) | 138 | The Unsplash of design systems for AI agents — re-skin your app with one URL | [SAFE](https://agentskillshub.top/skill/luongnv89/sleek-ui/) |
-| [Devesh-Shirsath/spotkit](https://github.com/Devesh-Shirsath/spotkit) | 136 | Spotkit：Claude Code skill，将功能描述转为统一设计系统中的极简抽象 SVG 产品插图。 | [SAFE](https://agentskillshub.top/skill/Devesh-Shirsath/spotkit/) |
 | [OpenLabs-so/oa-design](https://github.com/OpenLabs-so/oa-design) | 135 | Open Analytics 设计语言作为 agent skill：组件配方、类型检查源码、token CSS 和 CLI，适用于 Claude Code、C… | [SAFE](https://agentskillshub.top/skill/OpenLabs-so/oa-design/) |
 | [bluzir/claude-code-design](https://github.com/bluzir/claude-code-design) | 111 | 为 Claude Code 复现 Claude Design：用 skills、starters 和 Chrome DevTools MCP 创建 HTML… | [SAFE](https://agentskillshub.top/skill/bluzir/claude-code-design/) |
-| [Bearisbug/Quilt](https://github.com/Bearisbug/Quilt) | 106 | AI-native infinite-canvas design tool: describe an app, get multi-screen HTML designs on an infinite canvas, click through them as a prototype, and l… | [SAFE](https://agentskillshub.top/skill/Bearisbug/Quilt/) |
+| [Bearisbug/Quilt](https://github.com/Bearisbug/Quilt) | 105 | AI-native infinite-canvas design tool: describe an app, get multi-screen HTML designs on an infinite canvas, click through them as a prototype, and l… | [SAFE](https://agentskillshub.top/skill/Bearisbug/Quilt/) |
 | [southleft/figma-console-mcp-skills](https://github.com/southleft/figma-console-mcp-skills) | 102 | Figma Console MCP：Figma MCP server的Markdown skill，含令牌、变量、组件、WCAG审计、版本、FigJam、Sl… | [SAFE](https://agentskillshub.top/skill/southleft/figma-console-mcp-skills/) |
 | [educlopez/design-bites](https://github.com/educlopez/design-bites) | 97 | 精选网站的 DESIGN.md 文件，解析设计系统，供 AI agents 使用。Sparkbites 出品。 | [SAFE](https://agentskillshub.top/skill/educlopez/design-bites/) |
 | [jrpease/throughline](https://github.com/jrpease/throughline) | 80 | Throughline——连接设计与代码。Claude Code 插件，引导你从空白 Figma 文件构建同步、经过故事测试的组件库。 | [SAFE](https://agentskillshub.top/skill/jrpease/throughline/) |
@@ -255,7 +256,7 @@
 | [yuvrajangadsingh/brandmd](https://github.com/yuvrajangadsingh/brandmd) | 74 | 防止 Claude Code/Cursor 猜测 UI。将任意网站设计系统提取为符合规范的 DESIGN.md，通过官方 @google/design.md… | [SAFE](https://agentskillshub.top/skill/yuvrajangadsingh/brandmd/) |
 | [hakilee/design-farmer](https://github.com/hakilee/design-farmer) | 63 | 将设计系统质量从“尽力而为”变成可重复的工程流程的 agent skill。 | [SAFE](https://agentskillshub.top/skill/hakilee/design-farmer/) |
 | [gregkozakiewicz/roast-my-design-system](https://github.com/gregkozakiewicz/roast-my-design-system) | 62 | AI 设计系统扫描器和 MCP 服务器，为仓库按 0-100 评分并生成修复提示。 | [SAFE](https://agentskillshub.top/skill/gregkozakiewicz/roast-my-design-system/) |
-| [jubscodes/get-shit-pretty](https://github.com/jubscodes/get-shit-pretty) | 57 | 为 AI 编程工具做设计工程。品牌识别与设计项目，从策略到代码。 | [SAFE](https://agentskillshub.top/skill/jubscodes/get-shit-pretty/) |
+| [jubscodes/get-shit-pretty](https://github.com/jubscodes/get-shit-pretty) | 58 | 为 AI 编程工具做设计工程。品牌识别与设计项目，从策略到代码。 | [SAFE](https://agentskillshub.top/skill/jubscodes/get-shit-pretty/) |
 | [MohtashamMurshid/getdesign](https://github.com/MohtashamMurshid/getdesign) | 55 | 任意 URL 按需生成设计系统。五种形式，一个 agent：web、API、CLI、TypeScript SDK，以及可在 Claude Code、Codex… | [SAFE](https://agentskillshub.top/skill/MohtashamMurshid/getdesign/) |
 | [hasi98/designpull](https://github.com/hasi98/designpull) | 55 | 用 AI 视觉从任意网站生成兼容 Google Stitch 的 DESIGN.md 文件。使用自有 Gemini、OpenAI、Claude 或 Ollam… | [SAFE](https://agentskillshub.top/skill/hasi98/designpull/) |
 | [natdexterra/work-with-design-systems](https://github.com/natdexterra/work-with-design-systems) | 53 | 从 Claude Code 检查、构建或扩展 Figma 设计系统；支持只读审计、WCAG 检查、组件评分，构建模式含变量绑定和 slots，可选 Phase… | [SAFE](https://agentskillshub.top/skill/natdexterra/work-with-design-systems/) |
@@ -264,8 +265,9 @@
 | [seungdori/web-stylebook-mcp](https://github.com/seungdori/web-stylebook-mcp) | 28 | 为 AI coding agents 提供评分设计方向、UI-state 方案和 WCAG 检查的 design tokens。确定性、离线、无需 API k… | [SAFE](https://agentskillshub.top/skill/seungdori/web-stylebook-mcp/) |
 | [ake77-code/distill-design](https://github.com/ake77-code/distill-design) | 27 | 将任意网站提炼为 DESIGN.md——AI 可直接读取、用于生成符合品牌 UI 的纯文本设计规范。 | [SAFE](https://agentskillshub.top/skill/ake77-code/distill-design/) |
 | [dgesteves/onsystem](https://github.com/dgesteves/onsystem) | 20 | 让 coding agents 遵循设计系统：检查颜色、原生元素和缺失 API，并提供修复；配置一次，monorepo 中所有应用生效。 | [SAFE](https://agentskillshub.top/skill/dgesteves/onsystem/) |
+| [pycodebr/hedesign](https://github.com/pycodebr/hedesign) | 20 | 面向 AI 的纯 CSS 和 JavaScript 设计系统，含状态颜色、明暗主题、设计规范及 AI Agent skills。 | [*待评级*](https://agentskillshub.top/skill/pycodebr/hedesign/) |
 | [Eronred/designspec](https://github.com/Eronred/designspec) | 16 | 让 AI 编写的 UI 遵循设计系统：coding agents 遵循、CI 强制执行的 tokens 和 components 规范。 | [SAFE](https://agentskillshub.top/skill/Eronred/designspec/) |
-| [mmohajer9/video-to-ui](https://github.com/mmohajer9/video-to-ui) | 15 | 将 UI 屏幕录制转为设计数据、代码修改或可运行的 React 脚手架。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/mmohajer9/video-to-ui/) |
+| [mmohajer9/video-to-ui](https://github.com/mmohajer9/video-to-ui) | 16 | 将 UI 屏幕录制转为设计数据、代码修改或可运行的 React 脚手架。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/mmohajer9/video-to-ui/) |
 | [imsaif/design-with-claude](https://github.com/imsaif/design-with-claude) | 11 | dwic 是终端内的产品设计工具。运行 npx dwic-audit 检查 WCAG 对比度、令牌偏移和结构缺口，由48名设计专家修复，并跨会话记住设计决策。 | [SAFE](https://agentskillshub.top/skill/imsaif/design-with-claude/) |
 | [kalilfagundes/design-system-extractor-skill](https://github.com/kalilfagundes/design-system-extractor-skill) | 10 | Claude/Antigravity/Opencode AI skill，可从任意网站逆向分析设计系统，提取颜色、字体、间距和组件，生成交互式 HTML 文档。 | [SAFE](https://agentskillshub.top/skill/kalilfagundes/design-system-extractor-skill/) |
 | [juanlara-aidev/macos-26-design](https://github.com/juanlara-aidev/macos-26-design) | 8 | macOS 26（Liquid Glass）可作为 Claude Code、Cursor 和 Gemini CLI 的即插即用 skill。 | [SAFE](https://agentskillshub.top/skill/juanlara-aidev/macos-26-design/) |
@@ -281,17 +283,17 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | 16.3k | 为 Cursor 等 AI 编程 agent 提供 Figma 布局信息的 MCP server | [SAFE](https://agentskillshub.top/skill/GLips/Figma-Context-MCP/) |
-| [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) | 3.4k | 将你的设计系统作为 API。连接 AI 与 Figma，用于提取、创建和调试。 | [SAFE](https://agentskillshub.top/skill/southleft/figma-console-mcp/) |
+| [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) | 3.5k | 将你的设计系统作为 API。连接 AI 与 Figma，用于提取、创建和调试。 | [SAFE](https://agentskillshub.top/skill/southleft/figma-console-mcp/) |
 | [arinspunk/claude-talk-to-figma-mcp](https://github.com/arinspunk/claude-talk-to-figma-mcp) | 686 | 支持 Claude Desktop、Claude Code、Cursor、Antigravity 等 AI 工具读取、分析和修改 Figma 设计的 Mode… | [SAFE](https://agentskillshub.top/skill/arinspunk/claude-talk-to-figma-mcp/) |
 | [penpot/penpot-mcp](https://github.com/penpot/penpot-mcp) | 537 | Penpot 官方 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/penpot/penpot-mcp/) |
-| [moguzbulbul/blueprint-animation](https://github.com/moguzbulbul/blueprint-animation) | 445 | Claude Design skill：通过蓝图绘图逐步讲解动画化的改版前→改版后 UX 设计，作者 @moguzbulbul。 | [SAFE](https://agentskillshub.top/skill/moguzbulbul/blueprint-animation/) |
+| [moguzbulbul/blueprint-animation](https://github.com/moguzbulbul/blueprint-animation) | 446 | Claude Design skill：通过蓝图绘图逐步讲解动画化的改版前→改版后 UX 设计，作者 @moguzbulbul。 | [SAFE](https://agentskillshub.top/skill/moguzbulbul/blueprint-animation/) |
 | [TranHoaiHung/figma-ui-mcp](https://github.com/TranHoaiHung/figma-ui-mcp) | 273 | AI 可通过 JavaScript 在 Figma 画布绘制 UI，并将现有设计读取为结构化数据。支持 Claude Code、Cursor、VS Code… | [SAFE](https://agentskillshub.top/skill/TranHoaiHung/figma-ui-mcp/) |
 | [noemuch/bridge](https://github.com/noemuch/bridge) | 156 | 使用 Claude Code 在 Figma 中设计。Bridge 通过 WebSocket 将终端连接到 Figma Plugin API。 | [SAFE](https://agentskillshub.top/skill/noemuch/bridge/) |
 | [alima-max/prototype-to-figma-skill](https://github.com/alima-max/prototype-to-figma-skill) | 143 | Claude skill：分析Claude Code原型，用搜索和Code Connect映射至Figma设计系统，逐状态生成画面并标注触发器、转换和边界情况 | [SAFE](https://agentskillshub.top/skill/alima-max/prototype-to-figma-skill/) |
 | [hoangpm96/reqwise-figma-mcp](https://github.com/hoangpm96/reqwise-figma-mcp) | 107 | 配套 Figma plugin 的 MCP server，让 AI agents 安全读取和绘制 Figma canvas，提供结构化验证、默认安全绘图和多窗… | [SAFE](https://agentskillshub.top/skill/hoangpm96/reqwise-figma-mcp/) |
 | [pmlaowangba-lab/laowangba-pmprototype-skill](https://github.com/pmlaowangba-lab/laowangba-pmprototype-skill) | 105 | 用于产品原型生成的 Codex skill，包含 IA、设计门禁、页面 UI YAML 和 Figma 工作流。 | [SAFE](https://agentskillshub.top/skill/pmlaowangba-lab/laowangba-pmprototype-skill/) |
 | [youware-labs/figma-pilot](https://github.com/youware-labs/figma-pilot) | 105 | 通过代码执行让 AI agent 控制 Figma 的 MCP | [SAFE](https://agentskillshub.top/skill/youware-labs/figma-pilot/) |
-| [alvinindra/figma-mcp-rust](https://github.com/alvinindra/figma-mcp-rust) | 87 | 用 Rust 构建的 Figma MCP，通过插件提供完整读写权限（无 REST API、无速率限制，含 73 个工具） | [SAFE](https://agentskillshub.top/skill/alvinindra/figma-mcp-rust/) |
+| [alvinindra/figma-mcp-rust](https://github.com/alvinindra/figma-mcp-rust) | 88 | 用 Rust 构建的 Figma MCP，通过插件提供完整读写权限（无 REST API、无速率限制，含 73 个工具） | [SAFE](https://agentskillshub.top/skill/alvinindra/figma-mcp-rust/) |
 | [HuolalaTech/huolala-figma-mcp](https://github.com/HuolalaTech/huolala-figma-mcp) | 85 | 货拉拉内部的 MCP 服务，可将 Figma 设计自动转换为高保真 UI 代码。 | [SAFE](https://agentskillshub.top/skill/HuolalaTech/huolala-figma-mcp/) |
 | [AsifKabirAntu/figsor](https://github.com/AsifKabirAntu/figsor) | 73 | Figsor 是连接 Cursor 与 Figma 的 MCP server，支持通过聊天在 Figma 画布中创建和编辑设计。 | [SAFE](https://agentskillshub.top/skill/AsifKabirAntu/figsor/) |
 | [pro-vi/designer](https://github.com/pro-vi/designer) | 61 | 用于 Claude Design 的 MCP / CLI | [SAFE](https://agentskillshub.top/skill/pro-vi/designer/) |
@@ -310,11 +312,11 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 28.0k | 面向设计师的开源 AI 优先开发工具，用 AI 可视化构建、设置样式和编辑代码。 | [SAFE](https://agentskillshub.top/skill/onlook-dev/onlook/) |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 13.2k | 面向 Stitch MCP server 的 Agent Skills 库，遵循 Agent Skills 开放标准，兼容 Antigravity、Gemin… | [SAFE](https://agentskillshub.top/skill/google-labs-code/stitch-skills/) |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 13.5k | 面向 Stitch MCP server 的 Agent Skills 库，遵循 Agent Skills 开放标准，兼容 Antigravity、Gemin… | [SAFE](https://agentskillshub.top/skill/google-labs-code/stitch-skills/) |
 | [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) | 8.3k | 开源 Claude Design 替代，一键导入 Claude Code/Codex API key，Prompt 生成原型、幻灯片、PDF，支持多模型。 | [SAFE](https://agentskillshub.top/skill/OpenCoworkAI/open-codesign/) |
 | [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | 7.4k | 开源 AI 原生矢量设计工具，支持并发 Agent Teams。Design-as-Code。在实时画布上将提示词转换为 UI，替代 Pencil。 | [SAFE](https://agentskillshub.top/skill/ZSeven-W/openpencil/) |
 | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | 2.7k | AI logo 动画 skill：把位图 logo 转成 SVG 动画、HTML 动画演示、GIF/视频预览和动效 QA 证据 | [SAFE](https://agentskillshub.top/skill/nolangz/pixel2motion/) |
-| [doop-design/doop](https://github.com/doop-design/doop) | 2.3k | Paper.design 的开源替代方案。支持人类与 AI agent 实时协作设计的多人画布，内置 MCP。 | [SAFE](https://agentskillshub.top/skill/doop-design/doop/) |
+| [doop-design/doop](https://github.com/doop-design/doop) | 2.4k | Paper.design 的开源替代方案。支持人类与 AI agent 实时协作设计的多人画布，内置 MCP。 | [SAFE](https://agentskillshub.top/skill/doop-design/doop/) |
 | [oil-oil/draw-ui](https://github.com/oil-oil/draw-ui) | 570 | Claude Code skill：通过 ZenMux 使用 GPT Image 2 生成 UI 设计稿 | [SAFE](https://agentskillshub.top/skill/oil-oil/draw-ui/) |
 | [lassejlv/loora](https://github.com/lassejlv/loora) | 144 | 可供 agent 编辑的画布设计工具。在画布上排列结构化 UI 节点，通过 MCP 连接 Claude、Codex、Cursor 或 opencode | [SAFE](https://agentskillshub.top/skill/lassejlv/loora/) |
 | [ReScienceLab/super-prototyping](https://github.com/ReScienceLab/super-prototyping) | 95 | AI agent产品验证系统：创意→Logo→产品→品牌→发布视频。桌面应用，支持 Claude Code 和 Codex 的 skill。 | [SAFE](https://agentskillshub.top/skill/ReScienceLab/super-prototyping/) |
@@ -330,19 +332,20 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [nexu-io/openmotion](https://github.com/nexu-io/openmotion) | 16.7k | 面向 Opus 5.5 动态视频的开源全栈工作室。逆向分析任意视频。用 HTML 重制、编辑和渲染视频。BYOA + BYOK · Motion.md · 图… | [SAFE](https://agentskillshub.top/skill/nexu-io/openmotion/) |
+| [nexu-io/openmotion](https://github.com/nexu-io/openmotion) | 16.9k | 面向 Opus 5.5 动态视频的开源全栈工作室。逆向分析任意视频。用 HTML 重制、编辑和渲染视频。BYOA + BYOK · Motion.md · 图… | [SAFE](https://agentskillshub.top/skill/nexu-io/openmotion/) |
 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | 7.9k | 面向 Claude、Gemini CLI、Codex 等 AI agent 的徽标设计 skill：原则、流程、SVG 制作、测试工具及 1,400+ 个徽标… | [SAFE](https://agentskillshub.top/skill/kaankiziltug/logo-design-skill/) |
 | [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) | 3.7k | 单色编辑印刷图像 skill——暖色纸张、半色调摄影、灵活留白与克制排版。 | [SAFE](https://agentskillshub.top/skill/yanliudesign/mono-color-skill/) |
 | [op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill) | 2.4k | logo-generator-skill | [SAFE](https://agentskillshub.top/skill/op7418/logo-generator-skill/) |
 | [joeseesun/qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design) | 1.4k | 生成海报、书籍封面、专辑封面等设计作品，支持电影海报、读书笔记、公众号封面和小红书配图。含AI提示词优化、风格对比、图生图，默认9:16竖版。 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-mondo-poster-design/) |
-| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 1.3k | 一个 Claude skill，以统一风格绘制动态图标，支持悬停动效或静态 SVG。 | [SAFE](https://agentskillshub.top/skill/kubai087/kubai-icons/) |
-| [neonwatty/logo-designer-skill](https://github.com/neonwatty/logo-designer-skill) | 214 | 用于通过引导式探索和迭代创建及优化 SVG 标志的 agent skill。 | [SAFE](https://agentskillshub.top/skill/neonwatty/logo-designer-skill/) |
+| [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | 1.4k | 一个 Claude skill，以统一风格绘制动态图标，支持悬停动效或静态 SVG。 | [SAFE](https://agentskillshub.top/skill/kubai087/kubai-icons/) |
+| [neonwatty/logo-designer-skill](https://github.com/neonwatty/logo-designer-skill) | 215 | 用于通过引导式探索和迭代创建及优化 SVG 标志的 agent skill。 | [SAFE](https://agentskillshub.top/skill/neonwatty/logo-designer-skill/) |
 | [SpaceZephyr/design-buddy](https://github.com/SpaceZephyr/design-buddy) | 189 | Design Buddy：用于品牌设计系统、GPT-image-2 图像、图表、信息图、Logo、幻灯片、微信排版和社交图片的视觉制作 Agent Skills | [SAFE](https://agentskillshub.top/skill/SpaceZephyr/design-buddy/) |
 | [dososo/blcaptain-style-skill](https://github.com/dososo/blcaptain-style-skill) | 189 | 图文卡片生成 Skill：内容→海报级组图（小红书3:4/公众号封面）；1引擎+3种视觉语言：静纸 Still Paper、实证 Signal Proof、图… | [SAFE](https://agentskillshub.top/skill/dososo/blcaptain-style-skill/) |
 | [dacnay816y62-hub/fantasy-dongfang-jianyuehaibao](https://github.com/dacnay816y62-hub/fantasy-dongfang-jianyuehaibao) | 130 | 东方文化编辑海报 v2 Codex skill：Image 2 出图、中文标题精炼、真实文化物证、A/B/C 测试 | [SAFE](https://agentskillshub.top/skill/dacnay816y62-hub/fantasy-dongfang-jianyuehaibao/) |
 | [luji12/daily-photo-playground](https://github.com/luji12/daily-photo-playground) | 82 | 将日常照片重构为3:4高饱和情绪化编辑海报的 Codex skill | [SAFE](https://agentskillshub.top/skill/luji12/daily-photo-playground/) |
 | [dacnay816y62-hub/regional-culture-poster](https://github.com/dacnay816y62-hub/regional-culture-poster) | 74 | 将中国地域文化转化为克制、当代的大字海报与编辑海报，非旅游宣传。 | [SAFE](https://agentskillshub.top/skill/dacnay816y62-hub/regional-culture-poster/) |
-| [beyondtahir/beyondartist](https://github.com/beyondtahir/beyondartist) | 70 | AI design skill for freelancers, content creators and digital marketers. Think like a designer. Execute like an artist. | [SAFE](https://agentskillshub.top/skill/beyondtahir/beyondartist/) |
+| [beyondtahir/beyondartist](https://github.com/beyondtahir/beyondartist) | 71 | AI design skill for freelancers, content creators and digital marketers. Think like a designer. Execute like an artist. | [SAFE](https://agentskillshub.top/skill/beyondtahir/beyondartist/) |
+| [webkubor/logo-brand-designer](https://github.com/webkubor/logo-brand-designer) | 67 | 为项目设计/重设计/验收品牌标识的 AI agent skill，交付 design token、设计理念、透明底 1:1 SVG、离线评审页与真实截图。 | [SAFE](https://agentskillshub.top/skill/webkubor/logo-brand-designer/) |
 | [carrapido/rob-janoff-design](https://github.com/carrapido/rob-janoff-design) | 20 | 徽标设计 Agent Skill：用 Rob Janoff 方法设计、评审和更新徽标，生成3个黄金级数单色SVG方案，展示前按256、48、16 px测量渲染。 | [SAFE](https://agentskillshub.top/skill/carrapido/rob-janoff-design/) |
 | [dabodamjan/poster-maker](https://github.com/dabodamjan/poster-maker) | 15 | Claude Code 的 AI 传单和海报生成器，描述设计即可获取可编辑 HTML/CSS，并导出高清 PNG 或 PDF。 | [SAFE](https://agentskillshub.top/skill/dabodamjan/poster-maker/) |
 
@@ -355,7 +358,7 @@
 |---|---:|---|---|
 | [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) | 3.5k | 设计技能集合：用于设计的 agentic skills、commands 和 plugins，涵盖研究、系统、UI、交互和交付。 | [SAFE](https://agentskillshub.top/skill/Owl-Listener/designer-skills/) |
 | [kylezantos/design-motion-principles](https://github.com/kylezantos/design-motion-principles) | 1.7k | 用于动效设计审查的 Claude Code skill，基于 Emil Kowalski、Jakub Krehel 和 Jhey Tompkins 训练，提供… | [SAFE](https://agentskillshub.top/skill/kylezantos/design-motion-principles/) |
-| [funboy322/avoid-ai-design](https://github.com/funboy322/avoid-ai-design) | 175 | 审查并重写 AI 生成的前端，去除紫色渐变、奶油+陶土色和单色默认样式。附零依赖扫描器，是 avoid-ai-writing 的设计对应工具。 | [SAFE](https://agentskillshub.top/skill/funboy322/avoid-ai-design/) |
+| [funboy322/avoid-ai-design](https://github.com/funboy322/avoid-ai-design) | 176 | 审查并重写 AI 生成的前端，去除紫色渐变、奶油+陶土色和单色默认样式。附零依赖扫描器，是 avoid-ai-writing 的设计对应工具。 | [SAFE](https://agentskillshub.top/skill/funboy322/avoid-ai-design/) |
 | [evidence-codes/loom](https://github.com/evidence-codes/loom) | 8 | 面向 AI 网站的设计工作流：真实截图、设计采用、沉淀规范、安全预览；基于 impeccable 适配 Claude Code。 | [SAFE](https://agentskillshub.top/skill/evidence-codes/loom/) |
 
 **安全评级**是 Agent Skills Hub 对仓库 README 和安装步骤的评级。*待评级*表示目录还没评到它。
@@ -372,4 +375,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-26。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-27。
